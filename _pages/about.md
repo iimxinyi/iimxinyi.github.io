@@ -11,7 +11,8 @@ Hi, I am a second-year PhD student at the School of Electronics and Information 
 
 📖 Education Background
 ======
-
+* Sep. 2019 - Sep. 2023: Bachelor of Engineering, Communication Engineering, School of Electronics and Information, Northwestern Polytechnical University.
+* Sep. 2023 - Now: 
 
 A data-driven personal website
 ======

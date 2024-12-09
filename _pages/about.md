@@ -26,7 +26,7 @@ Our two recent papers have been submitted to 2025 IEEE International Conference 
 ---
 
 # 📄 3 Selected First-Author Papers
-<span style="font-size:40px;">**Journal Papers**</span>:
+<span style="font-size:400px;">**Journal Papers**</span>:
 
 Coming soon...
 

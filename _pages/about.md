@@ -16,8 +16,8 @@ My research interests include Large Vision Model (LVM), Large Language Model (LL
 
 
 # 📖 1 Education Background
-* Sep. 2019 - Sep. 2023: Bachelor of Engineering, Communication Engineering, School of Electronics and Information, Northwestern Polytechnical University.
-* Sep. 2023 - Now (expected): Doctor of Philosophy, Information and Communication Engineering, School of Electronics and Information Engineering, Harbin Institute of Technology (Shenzhen).
+* 2019.09 - 2023.07: Bachelor of Engineering, Communication Engineering, School of Electronics and Information, Northwestern Polytechnical University.
+* 2023.08 - Now (expected): Doctor of Philosophy, Information and Communication Engineering, School of Electronics and Information Engineering, Harbin Institute of Technology (Shenzhen).
 
 ---
 

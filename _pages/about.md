@@ -35,7 +35,7 @@ IEEE International Conference on Computer Communications (INFOCOM)*, Accepted, 2
 ---
 
 # 📃 4 Selected Collaborative Papers
-<span style="font-size:20px;">**Journal Papers:**</span>:
+<span style="font-size:20px;">**Journal Papers:**</span>
 
 <span style="font-size:20px;">**Conference Papers:**</span>
 1. Z. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, "Joint Communication and Computation Scheduling for MEC-enabled AIGC Services based on Generative Diffusion Model," in *Proceedings of the 

@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am a second-year PhD student at the School of Electronics and Information Engineering, Harbin Institute of Technology (Shenzhen), Shenzhen, China.
 
-<img src="book_icon_url" width="32" height="32" /> Education Background
+![Book Icon](./icon/Education.png) Education Background
 ======
 
 

@@ -24,7 +24,7 @@ Now, I am pursuing a PhD degree in Information and Communication Engineering at 
 Coming soon...
 
 
-📄 Selected First-author Papers
+📄 Selected First-Author Papers
 =====
 Coming soon...
 

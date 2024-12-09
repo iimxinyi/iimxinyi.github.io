@@ -47,3 +47,7 @@ International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wirel
 # 🏆 5 Awards
 1. Outstanding Graduate (10%), Northwestern Polytechnical University.
 1. Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.
+
+---
+
+

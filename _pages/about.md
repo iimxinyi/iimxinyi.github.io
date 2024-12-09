@@ -29,7 +29,6 @@ Our two recent papers have been submitted to 2025 IEEE International Conference 
 <span style="font-size:20px;">**Journal Papers:**</span>
 
 <span style="font-size:20px;">**Conference Papers:**</span>
-<p style="line-height:1;">
 1. **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, ''Joint Optimization of Model Inferencing and Task Offloading for MEC-Empowered Large Vision Model Services,'' in *Proceedings of the 
 IEEE International Conference on Computer Communications (INFOCOM)*, Accepted, 2025. (CCF A)
 

@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify;">
 Hi, I am a second-year PhD student at the School of Electronics and Information Engineering, Harbin Institute of Technology (Shenzhen), Shenzhen, China.
 I received the BE degree in Communication Engineering (Advisor: Prof. [Zhaoqiang Xia](https://scholar.google.com/citations?user=0Exbqx8AAAAJ&hl=en)) from Northwestern Polytechnical University (NPU) in 2023.
 I am currently pursuing a PhD degree in Information and Communication Engineering at Harbin Institute of Technology, Shenzhen (HITsz) under the supervision of Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en).
+</div>
 
 
 📖 Education Background

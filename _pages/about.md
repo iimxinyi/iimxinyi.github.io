@@ -29,6 +29,7 @@ Our two recent papers have been submitted to 2025 IEEE International Conference 
 <span style="font-size:20px;">**Journal Papers:**</span>
 
 <span style="font-size:20px;">**Conference Papers:**</span>
+<p style="line-height:1;">
 1. **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, ''Joint Optimization of Model Inferencing and Task Offloading for MEC-Empowered Large Vision Model Services,'' in *Proceedings of the 
 IEEE International Conference on Computer Communications (INFOCOM)*, Accepted, 2025. (CCF A)
 
@@ -37,7 +38,7 @@ IEEE International Conference on Computer Communications (INFOCOM)*, Accepted, 2
 # 📃 4 Selected Collaborative Papers
 <span style="font-size:20px;">**Journal Papers:**</span>
 
-<span style="font-size:20px;">**Conference Papers:**</span><br>
+<span style="font-size:20px;">**Conference Papers:**</span>
 1. Z. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, "Joint Communication and Computation Scheduling for MEC-enabled AIGC Services based on Generative Diffusion Model," in *Proceedings of the 
 International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt)*, Accepted, 2024.
 

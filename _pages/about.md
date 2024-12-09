@@ -25,7 +25,7 @@ Our two recent papers have been submitted to 2025 IEEE International Conference 
 
 ---
 
-# 📄 3 Selected First-Author Papers
+# 📝 3 Selected First-Author Papers
 <span style="font-size:20px;">**Journal Papers:**</span>
 
 <span style="font-size:20px;">**Conference Papers:**</span>
@@ -34,7 +34,7 @@ IEEE International Conference on Computer Communications (INFOCOM)*, Accepted, 2
 
 ---
 
-# 📃 4 Selected Collaborative Papers
+# 📄 4 Selected Collaborative Papers
 <span style="font-size:20px;">**Journal Papers:**</span>
 
 <span style="font-size:20px;">**Conference Papers:**</span>
@@ -44,6 +44,6 @@ International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wirel
 ---
 
 
-# 5 Awards
+# 🏆 5 Awards
 1. Outstanding Graduate (10%), Northwestern Polytechnical University.
 1. Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.

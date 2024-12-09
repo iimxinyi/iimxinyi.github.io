@@ -13,6 +13,8 @@ Hi, I am a second-year PhD student at the School of Electronics and Information 
 ======
 <div style="text-align: justify;">
 * Sep. 2019 - Sep. 2023: Bachelor of Engineering, Communication Engineering, School of Electronics and Information, Northwestern Polytechnical University.
+</div>
+<div style="text-align: justify;">
 * Sep. 2023 - Now (expected): Doctor of Philosophy, Information and Communication Engineering, School of Electronics and Information Engineering, Harbin Institute of Technology (Shenzhen).
 </div>
 

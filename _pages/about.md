@@ -47,8 +47,9 @@ International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wirel
 
 
 # 🏆 5 Awards
-1. Outstanding Graduate (10%), Northwestern Polytechnical University.
-1. Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.
+1. Outstanding Graduation Thesis (5%), Northwestern Polytechnical University, 2023.
+1. Outstanding Graduate (10%), Northwestern Polytechnical University, 2023.
+1. AoXiang Scholarship (5%), Beijing International Trust Co.,Ltd., 2022.
 
 ---
 

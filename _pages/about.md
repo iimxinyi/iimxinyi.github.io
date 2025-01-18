@@ -23,7 +23,7 @@ My research interests include Large Vision Model (LVM), Large Language Model (LL
 
 
 # 🔥 2 Recent News
-Our two recent papers have been submitted to 2025 IEEE International Conference on Communications (ICC).
+One recent paper have been accepted by 2025 IEEE International Conference on Communications (ICC).
 
 ---
 
@@ -31,8 +31,8 @@ Our two recent papers have been submitted to 2025 IEEE International Conference 
 <span style="font-size:20px;">**Journal Papers:**</span>
 
 <span style="font-size:20px;">**Conference Papers:**</span>
-1. **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, ''Joint Optimization of Model Inferencing and Task Offloading for MEC-Empowered Large Vision Model Services,'' in *Proceedings of the 
-IEEE International Conference on Computer Communications (INFOCOM)*, Accepted, 2025. (CCF A)
+1. **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, ''Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services,'' in *Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM)*, Accepted, 2025. (CCF A)
+2. **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, ''QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks'' in *Proc. IEEE Int. Conf. Commun. (ICC)*, Accepted, 2025. (CCF C)
 
 ---
 
@@ -40,8 +40,7 @@ IEEE International Conference on Computer Communications (INFOCOM)*, Accepted, 2
 <span style="font-size:20px;">**Journal Papers:**</span>
 
 <span style="font-size:20px;">**Conference Papers:**</span>
-1. H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, "Joint Communication and Computation Scheduling for MEC-enabled AIGC Services based on Generative Diffusion Model," in *Proceedings of the 
-International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt)*, Seoul, Republic of Korea, Oct. 2024, pp. 345-352.
+1. H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, "Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model," in *Proc. Int. Symp. Model. Optim. Mob., Ad Hoc, Wirel. Networks (WiOpt)*, Seoul, Republic of Korea, Oct. 2024, pp. 345-352.
 
 ---
 

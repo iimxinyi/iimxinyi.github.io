@@ -32,7 +32,7 @@ One recent paper have been accepted by 2025 IEEE International Conference on Com
 
 <span style="font-size:20px;">**Conference Papers:**</span>
 1. **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, ''Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services,'' in *Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM)*, Accepted, 2025. (CCF A)
-2. **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, ''QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks'' in *Proc. IEEE Int. Conf. Commun. (ICC)*, Accepted, 2025. (CCF C)
+2. **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, ''QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks,'' in *Proc. IEEE Int. Conf. Commun. (ICC)*, Accepted, 2025. (CCF C)
 
 ---
 

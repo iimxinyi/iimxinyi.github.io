@@ -23,7 +23,7 @@ My research interests include Large Vision Model (LVM), Large Language Model (LL
 
 
 # 🔥 2 Recent News
-One recent paper have been accepted by 2025 IEEE International Conference on Communications (ICC).
+One recent paper have been submitted to 2025 IEEE Global Communications Conference (GLOBECOM).
 
 ---
 
@@ -38,6 +38,7 @@ One recent paper have been accepted by 2025 IEEE International Conference on Com
 
 # 📄 4 Selected Collaborative Papers
 <span style="font-size:20px;">**Journal Papers:**</span>
+1. J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “QoE-aware offloading and resource allocation for MEC-empowered AIGC services,” IEEE Trans. Mob. Comput., Accepted.
 
 <span style="font-size:20px;">**Conference Papers:**</span>
 1. H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, “Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model,” in Proc. Int. Symp. Model. Optim. Mob., Ad Hoc, Wirel. Networks (WiOpt), Seoul, Republic of Korea, Oct. 2024, pp. 345-352.

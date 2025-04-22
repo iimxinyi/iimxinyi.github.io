@@ -38,7 +38,7 @@ One recent paper have been submitted to 2025 IEEE Global Communications Conferen
 
 # 📄 4 Selected Collaborative Papers
 <span style="font-size:20px;">**Journal Papers:**</span>
-1. J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “QoE-aware offloading and resource allocation for MEC-empowered AIGC services,” IEEE Trans. Mobile Comput., Accepted. (**CCF A**, **SCI Q1**)
+1. J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “QoE-aware offloading and resource allocation for MEC-empowered AIGC services,” IEEE Trans. Mobile Comput., Early Access, 2025. (**CCF A**, **SCI Q1**)
 
 <span style="font-size:20px;">**Conference Papers:**</span>
 1. H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, “Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model,” in Proc. Int. Symp. Model. Optim. Mobile, Ad Hoc, Wireless Netw. (WiOpt), Seoul, Republic of Korea, Oct. 2024, pp. 345-352.

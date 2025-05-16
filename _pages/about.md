@@ -23,7 +23,8 @@ My research interests include Large Vision Model (LVM), Large Language Model (LL
 
 
 # 🔥 2 Recent News
-One recent paper have been submitted to 2025 IEEE Global Communications Conference (GLOBECOM).
+One first-author paper have been submitted to IEEE Journal on Selected Areas in Communications (JSAC).
+One corresponding-author paper have been submitted to 2025 IEEE Global Communications Conference (GLOBECOM).
 
 ---
 

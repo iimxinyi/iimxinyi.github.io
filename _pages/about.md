@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm a second-year Ph.D. student at the School of Information Science and Technology, Harbin Institute of Technology, Shenzhen.
+Hi, I'm a second-year Ph.D. student at School of Information Science and Technology, Harbin Institute of Technology, Shenzhen.
 I received my B.E. degree in Communication Engineering from Northwestern Polytechnical University in 2023.
 Now, I am pursuing my Ph.D. degree in Information and Communication Engineering at Harbin Institute of Technology, Shenzhen, under the supervision of Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en).
 
+My research interests include Large Vision Model (LVM), Large Language Model (LLM), Mobile Edge Computing (MEC), Multi-Agent Deep Reinforcement Learning (MADRL), and Game Theory.
+
+Feel free to contact me for communication and collaboration: zhuangxinyi@stu.hit.edu.cn
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

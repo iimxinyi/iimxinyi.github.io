@@ -61,5 +61,5 @@ Summary: 1 out of 3 conference papers are published in CCF A conference proceedi
 
 
 # 💬 Talks
-- *2024.12* Multi-Task Hybrid Inference Optimization for Large Vision Models (with Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
+- *2024.12* Multi-Task Hybrid Inference Optimization for Large Vision Models (with my mentor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
 

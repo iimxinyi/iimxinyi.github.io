@@ -55,12 +55,15 @@ Summary: 1 out of 3 conference papers are published in CCF A conference proceedi
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.
+- *2023* Outstanding Graduate (10%), Northwestern Polytechnical University.
+- *2023* Soaring Scholarship (1%), Beijing International Trust Co., Ltd.
 
-# 💬 Invited Talks
+
+# 💬 Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

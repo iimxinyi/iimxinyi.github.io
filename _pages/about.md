@@ -35,7 +35,12 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 - *2015.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen.
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
+
+{% include selectedPub.html %}
+
+<br>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

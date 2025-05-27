@@ -36,12 +36,9 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 - *2015.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen.
 
 
-# 📝 Selected Publications 
+# 📝 Selected First-Author Publications 
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services,” in Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM), Accepted, 2025. (**CCF A**)
 
-{% include selectedPub.html %}
-
-
-<br>
 
 
 # 🎖 Honors and Awards

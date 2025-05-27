@@ -1,0 +1,1110 @@
+<div class="post">
+    <article>
+        <div class="publications">
+            <h2 class="bibliography">2025</h2>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">WWW'25</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Privacy-Friendly Cross-Domain Recommendation via Distilling User-irrelevant Information
+                            </div>
+                            <div class="author"> Cheng Wang, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Wei Liu, Ruixuan Li' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>The 2025 ACM Web Conference</em>, 2025 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://openreview.net/forum?id=yuzbzzekdB#discussion" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Privacy-preserving Cross-Domain Recommendation (CDR) has been extensively studied to address the cold-start problem using auxiliary source domains while simultaneously protecting sensitive information. However, existing privacy-preserving CDR methods rely heavily on transferring sensitive user embeddings or behaviour logs, which leads to adopt privacy methods to distort the data patterns before transferring it to the target domain. The distorted information can compromise overall performance during the knowledge transfer process. To overcome these challenges, our approach differs from existing privacy-preserving methods that focus on safeguarding user-sensitive information. Instead, we concentrate on distilling transferable knowledge from insensitive item embeddings, which we refer to as \textbf{prototypes}. Specifically, we propose a conditional model inversion mechanism to accurately distill prototypes for individual users. We have designed a new data format and corresponding learning paradigm for distilling transferable prototypes from traditional recommendation models using model inversion. These prototypes facilitate bridging the domain shift between distinct source and target domains in a privacy-friendly manner. Additionally, they enable the identification of top-k users in the target domain to substitute for cold-start users prediction. We conduct extensive experiments across large real-world datasets, and the results substantiate the effectiveness of PFCDR.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICLR'25</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning
+                            </div>
+                            <div class="author"> Wenxi Lv, Qinliang Su, Wenchao Xu </div>
+                            <div class="periodical"> <em>The Thirteenth International Conference on Learning Representations</em>, 2025 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://openreview.net/forum?id=Zzs3JwknAY" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Anomaly detection methods under the 'one-for-all' paradigm aim to develop a unified model capable of detecting anomalies across multiple classes. However, these approaches typically require a large number of normal samples for model training, which may not always be feasible in practice. Few-shot anomaly detection methods can address scenarios with limited data but often require a tailored model for each class, struggling within the 'one-for-one' paradigm. In this paper, we first proposed the one-for-all few-shot anomaly detection method with the assistance of vision-language model. Different from previous CLIP-based methods learning fix prompts for each class, our method learn a class-shared prompt generator to adaptively generate suitable prompt for each instance. The prompt generator is trained by aligning the prompts with the visual space and utilizing guidance from general textual descriptions of normality and abnormality. Furthermore, we address the mismatch problem of the memory bank within one-for-all paradigm. Extensive experimental results on MVTec and VisA demonstrate the superiority of our method in few-shot anomaly detection task under the one-for-all paradigm.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">AAAI'25</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning
+                            </div>
+                            <div class="author"> Qingqing Fang, Qinliang Su, Wenxi Lv, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Wenchao Xu, Jianxing Yu' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>The 39th Annual AAAI Conference on Artificial Intelligence</em>, 2025 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2412.12850" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Many unsupervised visual anomaly detection methods train an auto-encoder to reconstruct normal samples and then leverage the reconstruction error map to detect and localize the anomalies. However, due to the powerful modeling and generalization ability of neural networks, some anomalies can also be well reconstructed, resulting in unsatisfactory detection and localization accuracy. In this paper, a small coarsely-labeled anomaly dataset is first collected. Then, a coarse-knowledge-aware adversarial learning method is developed to align the distribution of reconstructed features with that of normal features. The alignment can effectively suppress the auto-encoder's reconstruction ability on anomalies and thus improve the detection accuracy. Considering that anomalies often only occupy very small areas in anomalous images, a patch-level adversarial learning strategy is further developed. Although no patch-level anomalous information is available, we rigorously prove that by simply viewing any patch features from anomalous images as anomalies, the proposed knowledge-aware method can also align the distribution of reconstructed patch features with the normal ones. Experimental results on four medical datasets and an industrial dataset demonstrate the effectiveness of our method in improving the detection and localization performance.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICLR'25</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Self-introspective decoding: Alleviating hallucinations for large vision-language models
+                            </div>
+                            <div class="author"> Fushuo Huo, Wenchao Xu, Zhong Zhang, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Haozhao Wang, Zhicheng Chen, Peilin Zhao' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>International Conference on Learning Representations</em>, 2025 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2408.02032" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>While Large Vision-Language Models (LVLMs) have rapidly advanced in recent years, the prevalent issue known as the `hallucination' problem has emerged as a significant bottleneck, hindering their real-world deployments. Existing methods mitigate this issue mainly from two perspectives: One approach leverages extra knowledge like robust instruction tuning LVLMs with curated datasets or employing auxiliary analysis networks, which inevitable incur additional costs. Another approach, known as contrastive decoding, induces hallucinations by manually disturbing the vision or instruction raw inputs and mitigates them by contrasting the outputs of the disturbed and original LVLMs. However, these approaches rely on empirical holistic input disturbances and double the inference cost. To avoid these issues, we propose a simple yet effective method named Self-Introspective Decoding (SID). Our empirical investigation reveals that pretrained LVLMs can introspectively assess the importance of vision tokens based on preceding vision and text (both instruction and generated) tokens. We develop the Context and Text-aware Token Selection (CT2S) strategy, which preserves only unimportant vision tokens after early layers of LVLMs to adaptively amplify text-informed hallucination during the auto-regressive decoding. This approach ensures that multimodal knowledge absorbed in the early layers induces multimodal contextual rather than aimless hallucinations. Subsequently, the original token logits subtract the amplified vision-and-text association hallucinations, guiding LVLMs decoding faithfully. Extensive experiments illustrate SID generates less-hallucination and higher-quality texts across various metrics, without extra knowledge and much additional computation burdens.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
+            <h2 class="bibliography">2024</h2>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">NIPS'24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Cross-modal Representation Flattening for Multi-modal Domain Generalization
+                            </div>
+                            <div class="author"> Yunfeng FAN, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 1 more author"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '1 more author' ? 'Song Guo' : '1 more author'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">1 more author</span> </div>
+                            <div class="periodical"> <em>Advances in Neural Information Processing Systems</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/7b5d3047939b63ed97fcbbee23f8eb77-Abstract-Conference.html" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Multi-modal domain generalization (MMDG) requires that models trained on multi-modal source domains can generalize to unseen target distributions with the same modality set. Sharpness-aware minimization (SAM) is an effective technique for traditional uni-modal domain generalization (DG), however, with limited improvement in MMDG. In this paper, we identify that modality competition and discrepant uni-modal flatness are two main factors that restrict multi-modal generalization. To overcome these challenges, we propose to construct consistent flat loss regions and enhance knowledge exploitation for each modality via cross-modal knowledge transfer. Firstly, we turn to the optimization on representation-space loss landscapes instead of traditional parameter space, which allows us to build connections between modalities directly. Then, we introduce a novel method to flatten the high-loss region between minima from different modalities by interpolating mixed multi-modal representations. We implement this method by distilling and optimizing generalizable interpolated representations and assigning distinct weights for each modality considering their divergent generalization capabilities. Extensive experiments are performed on two benchmark datasets, EPIC-Kitchens and Human-Animal-Cartoon (HAC), with various modality combinations, demonstrating the effectiveness of our method under multi-source and single-source settings. Our code is open-sourced.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ACM MM’24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Detached and Interactive Multimodal Learning
+                            </div>
+                            <div class="author"> Yunfeng FAN, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Junhong Liu, Song Guo' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In Proceedings of the 32nd ACM International Conference on Multimedia</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2407.19514" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Recently, Multimodal Learning (MML) has gained significant interest as it compensates for single-modality limitations through comprehensive complementary information within multimodal data. However, traditional MML methods generally use the joint learning framework with a uniform learning objective that can lead to the modality competition issue, where feedback predominantly comes from certain modalities, limiting the full potential of others. In response to this challenge, this paper introduces DI-MML, a novel detached MML framework designed to learn complementary information across modalities under the premise of avoiding modality competition. Specifically, DI-MML addresses competition by separately training each modality encoder with isolated learning objectives. It further encourages cross-modal interaction via a shared classifier that defines a common feature space and employing a dimension-decoupled unidirectional contrastive (DUC) loss to facilitate modality-level knowledge transfer. Additionally, to account for varying reliability in sample pairs, we devise a certainty-aware logit weighting strategy to effectively leverage complementary information at the instance level during inference. Extensive experiments conducted on audio-visual, flow-image, and front-rear view datasets show the superior performance of our proposed method.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ECCV’24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching
+                            </div>
+                            <div class="author"> Yichen Li, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Ruixuan Li, Yining Qi, Jingcai Guo' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>In European Conference on Computer Vision</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2407.05005" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>This paper focuses on Federated Domain-Incremental Learning (FDIL) where each client continues to learn incremental tasks where their domain shifts from each other. We propose a novel adaptive knowledge matching-based personalized FDIL approach (pFedDIL) which allows each client to alternatively utilize appropriate incremental task learning strategy on the correlation with the knowledge from previous tasks. More specifically, when a new task arrives, each client first calculates its local correlations with previous tasks. Then, the client can choose to adopt a new initial model or a previous model with similar knowledge to train the new task and simultaneously migrate knowledge from previous tasks based on these correlations. Furthermore, to identify the correlations between the new task and previous tasks for each client, we separately employ an auxiliary classifier to each target classification model and propose sharing partial parameters between the target classification model and the auxiliary classifier to condense model parameters. We conduct extensive experiments on several datasets of which results demonstrate that pFedDIL outperforms state-of-the-art methods by up to 14.35\% in terms of average accuracy of all tasks.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ECCV’24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection
+                            </div>
+                            <div class="author"> Yunfeng Fan, Wenchao Xu, Haozhang Wang, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Fushuo Huo, Jinyu Chen, Song Guo' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>In European Conference on Computer Vision</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2401.00403v2" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Selecting proper clients to participate in each federated learning (FL) round is critical to effectively harness a broad range of distributed data. Existing client selection methods simply consider to mine the distributed uni-modal data, yet, their effectiveness may diminish in multi-modal FL (MFL) as the modality imbalance problem not only impedes the collaborative local training but also lead to a severe global modality-level bias. We empirically reveal that local training with a certain single modality may contribute more to the global model than training with all local modalities. To effectively exploit the distributed multimodalities, we propose a novel Balanced Modality Selection framework for MFL (BMSFed) to overcome the modal bias. On the one hand, we introduce a modal enhancement loss during local training to alleviate local imbalance based on the aggregated global prototypes. On the other hand, we propose the modality selection aiming to select subsets of local modalities with great diversity and achieving global modal balance simultaneously. Our extensive experiments on audio-visual, colored-gray, and front-back datasets showcase the superiority of BMSFed over baselines and its effectiveness in multi-modal data exploitation.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">CVPR’24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">C<sup>2</sup> KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation
+                            </div>
+                            <div class="author"> Fushuo Huo, Wenchao Xu, Jingcai Guo, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Haozhao Wang, Song Guo' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In Proceedings of the IEEE/CVF Conference on Computer
+                                    Vision and Pattern Recognition</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Huo_C2KD_Bridging_the_Modality_Gap_for_Cross-Modal_Knowledge_Distillation_CVPR_2024_paper.html" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Existing Knowledge Distillation (KD) methods typically focus on transferring knowledge from a large-capacity teacher to a low-capacity student model, achieving substantial success in unimodal knowledge transfer. However, existing methods can hardly be extended to Cross-Modal Knowledge Distillation (CMKD), where the knowledge is transferred from a teacher modality to a different student modality, with inference only on the distilled student modality. We empirically reveal that the modality gap, i.e., modality imbalance and soft label misalignment, incurs the in- effectiveness of traditional KD in CMKD. As a solution, we propose a novel Customized Crossmodal Knowledge Distillation (C2KD). Specifically, to alleviate the modality gap, the pre-trained teacher performs bidirectional distillation with the student to provide customized knowledge. The On-the-Fly Selection Distillation(OFSD) strategy is ap- plied to selectively filter out the samples with misaligned soft labels, where we distill cross-modal knowledge from non-target classes to avoid the modality imbalance issue. To further provide receptive cross-modal knowledge, proxy student and teacher, inheriting unimodal and cross-modal knowledge, is formulated to progressively transfer cross- modal knowledge through bidirectional distillation. Experimental results on audio-visual, image-text, and RGB-depth datasets demonstrate that our method can effectively trans- fer knowledge across modalities, achieving superior performance against traditional KD by a large margin.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICML'24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">FedBAT: Communication-efficient Federated Learning via Learnable Binarization
+                            </div>
+                            <div class="author"> Shiwei Li, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 7 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '7 more authors' ? 'Xing Tang, Yining Qi, Shijie Xu, weihongluo, Yuhua Li, xiugiang He, Ruixuan Li' : '7 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">7 more authors</span> </div>
+                            <div class="periodical">  <em>In Proceedings of the 40th International Conference on Machine Learning</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://icml.cc/virtual/2024/poster/32728" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Federated learning is a promising distributed machine learning paradigm that can effectively exploit large-scale data without exposing users’ privacy. However, it may incur significant communication overhead, thereby potentially impairing the training efficiency. To address this challenge, numerous studies suggest binarizing the model updates, which can reduce the communication data volume significantly. Nonetheless, traditional methods usually binarize model updates in a post-training manner, resulting in significant approximation errors and consequent degradation in model accuracy. To this end, we propose Federated Binarization-aware Training (FedBAT), a novel framework that directly learns binary model updates during the local training process, thus inherently reducing the approximation errors. FedBAT incorporates an innovative binarization operator, along with meticulously designed derivatives to facilitate efficient learning. In addition, we establish theoretical guarantees regarding the convergence of FedBAT. Extensive experiments are conducted on four popular datasets. The results show that FedBAT significantly accelerates the convergence and exceeds the accuracy of binarization methods by up to 9%, even surpassing that of FedAvg in some cases.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICML'24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Contamination-Resilient Anomaly Detection via Adversarial Learning on Partially-Observed Normal and Anomalous Data
+                            </div>
+                            <div class="author"> Wenxi Lv, Qinliang Su, Hai Wan, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Hongteng Xu, Wenchao Xu' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical">  <em>In Proceedings of the 40th International Conference on Machine Learning</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://icml.cc/virtual/2024/poster/34922" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Many existing anomaly detection methods assume the availability of a large-scale normal dataset. But for many applications, limited by resources, removing all anomalous samples from a large unlabeled dataset is unrealistic, resulting in contaminated datasets. To detect anomalies accurately under such scenarios, from the probabilistic perspective, the key question becomes how to learn the normal-data distribution from a contaminated dataset. To this end, we propose to collect two additional small datasets that are comprised of partially-observed normal and anomaly samples, and then use them to help learn the distribution under an adversarial learning scheme. We prove that under some mild conditions, the proposed method is able to learn the correct normal-data distribution. Then, we consider the overfitting issue caused by the small size of the two additional datasets, and a correctness-guaranteed flipping mechanism is further developed to alleviate it. Theoretical results under incomplete observed anomaly types are also presented. Extensive experimental results demonstrate that our method outperforms representative baselines when detecting anomalies under contaminated datasets.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICML'24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Amend to Alignment: Decoupled Prompt Tuning for Mitigating Spurious Correlation in Vision-Language Models
+                            </div>
+                            <div class="author"> Jie ZHANG, Xiaosong Ma, Song Guo, and <span
+                                    class="more-authors" title="click to view 4 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '4 more authors' ? 'Peng Li, Wenchao Xu, Xueyang Tang, Zicong Hong' : '4 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">4 more authors</span> </div>
+                            <div class="periodical">  <em>In Proceedings of the 40th International Conference on Machine Learning</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://icml.cc/virtual/2024/poster/33470" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Fine-tuning the learnable prompt for a pre-trained vision-language model (VLM), such as CLIP, has demonstrated exceptional efficiency in adapting to a broad range of downstream tasks. Existing prompt tuning methods for VLMs do not distinguish spurious features introduced by biased training data from invariant features, and employ a uniform alignment process when adapting to unseen target domains. This can impair the cross-modal feature alignment when the test data significantly deviate from the distribution of the training data, resulting in a poor out-ofdistribution (OOD) generalization performance. In this paper, we reveal that the prompt tuning failure in such OOD scenarios can be attribute to the undesired alignment between the textual and the spurious feature. As a solution, we propose CoOPood, a fine-grained prompt tuning method that can discern the causal features and deliberately align the text modality with the invariant feature. Specifically, we design two independent contrastive phases using two lightweight projection layers during the alignment, each with different objectives: 1) pulling the text embedding closer to the invariant image embedding and 2) pushing the text embedding away from the spurious image embedding. We have illustrated that CoOPood can serve as a general framework for VLMs and can be seamlessly integrated with existing prompt tuning methods. Extensive experiments on various OOD datasets demonstrate the performance superiority over state-of-the-art methods.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">INFOCOM’24</abbr></div>
+                        <div id="chen2024otas" class="col-sm-8">
+                            <div class="title">OTAS: An Elastic Transformer Serving System via Token Adaptation
+                            </div>
+                            <div class="author"> Jinyu Chen, Wenchao Xu, Zicong Hong, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Song Guo, Haozhao Wang, Jie Zhang' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>In Infocom 2024</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2401.05031" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Transformer model empowered architectures have become a pillar of cloud
+                                    services that keeps reshaping our society. However, the dynamic query loads
+                                    and heterogeneous user requirements severely challenge current transformer
+                                    serving systems, which rely on pre-training multiple variants of a
+                                    foundation model, i.e., with different sizes, to accommodate varying service
+                                    demands. Unfortunately, such a mechanism is unsuitable for large transformer
+                                    models due to the prohibitive training costs and excessive I/O delay. In
+                                    this paper, we introduce OTAS, the first elastic serving system specially
+                                    tailored for transformer models by exploring lightweight token management.
+                                    We develop a novel idea called token adaptation that adds prompting tokens
+                                    to improve accuracy and removes redundant tokens to accelerate inference. To
+                                    cope with fluctuating query loads and diverse user requests, we enhance OTAS
+                                    with application-aware selective batching and online token adaptation. OTAS
+                                    first batches incoming queries with similar service-level objectives to
+                                    improve the ingress throughput. Then, to strike a tradeoff between the
+                                    overhead of token increment and the potentials for accuracy improvement,
+                                    OTAS adaptively adjusts the token execution strategy by solving an
+                                    optimization problem. We implement and evaluate a prototype of OTAS with
+                                    multiple datasets, which show that OTAS improves the system utility by at
+                                    least 18.2%.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">AAAI’24</abbr></div>
+                        <div id="zhi2024knowledge" class="col-sm-8">
+                            <div class="title">Knowledge-Aware Parameter Coaching for Personalized Federated
+                                Learning</div>
+                            <div class="author"> Mingjian Zhi, Yuanguo Bi, Wenchao Xu, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Haozhao Wang, Tianao Xiang' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In AAAI 2024</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29651" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Personalized Federated Learning (pFL) can effectively exploit the non-IID
+                                    data from distributed clients by customizing personalized models. Existing
+                                    pFL methods either simply take the local model as a whole for aggregation or
+                                    require significant training overhead to induce the inter-client
+                                    personalized weights, and thus clients cannot efficiently exploit the
+                                    mutually relevant knowledge from each other. In this paper, we propose a
+                                    knowledge-aware parameter coaching scheme where each client can swiftly and
+                                    granularly refer to parameters of other clients to guide the local training,
+                                    whereby accurate personalized client models can be efficiently produced
+                                    without contradictory knowledge. Specifically, a novel regularizer is
+                                    designed to conduct layer-wise parameters coaching via a relation cube,
+                                    which is constructed based on the knowledge represented by the layered
+                                    parameters among all clients. Then, we develop an optimization method to
+                                    update the relation cube and the parameters of each client. It is
+                                    theoretically demonstrated that the convergence of the proposed method can
+                                    be guaranteed under both convex and non-convex settings. Extensive
+                                    experiments are conducted over various datasets, which show that the
+                                    proposed method can achieve better performance compared with the
+                                    state-of-the-art baselines in terms of accuracy and convergence speed.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">AAAI’24</abbr></div>
+                        <div id="huo2024nonexemplar" class="col-sm-8">
+                            <div class="title">Non-Exemplar Online Class-incremental Continual Learning via
+                                Dual-prototype Self-augment and Refinement</div>
+                            <div class="author"> Fushuo Huo, Wenchao Xu, Jingcai Guo, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Haozhao Wang, Yunfeng Fan' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In AAAI 2024</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2303.10891" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>This paper investigates a new, practical, but challenging problem named
+                                    Non-exemplar Online Class-incremental continual Learning (NO-CL), which aims
+                                    to preserve the discernibility of base classes without buffering data
+                                    examples and efficiently learn novel classes continuously in a single-pass
+                                    (i.e., online) data stream. The challenges of this task are mainly two-fold:
+                                    (1) Both base and novel classes suffer from severe catastrophic forgetting
+                                    as no previous samples are available for replay. (2) As the online data can
+                                    only be observed once, there is no way to fully re-train the whole model,
+                                    e.g., re-calibrate the decision boundaries via prototype alignment or
+                                    feature distillation. In this paper, we propose a novel Dual-prototype
+                                    Self-augment and Refinement method (DSR) for NO-CL problem, which consists
+                                    of two strategies: 1) Dual class prototypes: vanilla and high-dimensional
+                                    prototypes are exploited to utilize the pre-trained information and obtain
+                                    robust quasi-orthogonal representations rather than example buffers for both
+                                    privacy preservation and memory reduction. 2) Self-augment and refinement:
+                                    Instead of updating the whole network, we optimize high-dimensional
+                                    prototypes alternatively with the extra projection module based on
+                                    self-augment vanilla prototypes, through a bi-level optimization problem.
+                                    Extensive experiments demonstrate the effectiveness and superiority of the
+                                    proposed DSR in NO-CL.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">AAAI’24</abbr></div>
+                        <div id="huo2024procc" class="col-sm-8">
+                            <div class="title">ProCC: Progressive Cross-primitive Compatibility for Open-World
+                                Compositional Zero-Shot Learning</div>
+                            <div class="author"> Fushuo Huo, Wenchao Xu, Song Guo, and <span
+                                    class="more-authors" title="click to view 4 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '4 more authors' ? 'Jingcai Guo, Haozhao Wang, Ziming Liu, Xiaocheng Lu' : '4 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">4 more authors</span> </div>
+                            <div class="periodical"> <em>In AAAI 2024</em>, 2024 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2211.12417" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Open-World Compositional Zero-shot Learning (OW-CZSL) aims to recognize novel
+                                    compositions of state and object primitives in images with no priors on the
+                                    compositional space, which induces a tremendously large output space
+                                    containing all possible state-object compositions. Existing works either
+                                    learn the joint compositional state-object embedding or predict simple
+                                    primitives with separate classifiers. However, the former method heavily
+                                    relies on external word embedding methods, and the latter ignores the
+                                    interactions of interdependent primitives, respectively. In this paper, we
+                                    revisit the primitive prediction approach and propose a novel method, termed
+                                    Progressive Cross-primitive Compatibility (ProCC), to mimic the human
+                                    learning process for OW-CZSL tasks. Specifically, the cross-primitive
+                                    compatibility module explicitly learns to model the interactions of state
+                                    and object features with the trainable memory units, which efficiently
+                                    acquires cross-primitive visual attention to reason high-feasibility
+                                    compositions, without the aid of external knowledge. Moreover, to alleviate
+                                    the invalid cross-primitive interactions, especially for partial-supervision
+                                    conditions (pCZSL), we design a progressive training paradigm to optimize
+                                    the primitive classifiers conditioned on pretrained features in an
+                                    easy-to-hard manner. Extensive experiments on three widely used benchmark
+                                    datasets demonstrate that our method outperforms other representative
+                                    methods on both OW-CZSL and pCZSL settings by large margins.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
+            <h2 class="bibliography">2023</h2>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">TMC’23</abbr></div>
+                        <div id="xu2023mobile" class="col-sm-8">
+                            <div class="title">Mobile Collaborative Learning over Opportunistic Internet of
+                                Vehicles</div>
+                            <div class="author"> Wenchao Xu, Haozhao Wang, Zhaoyi Lu, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Cunqing Hua, Nan Cheng, Song Guo' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Transactions on Mobile Computing</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/10119206/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Machine learning models are widely applied for vehicular applications, which
+                                    are essential to future intelligent transportation system (ITS). Traditional
+                                    model training methods commonly employ a client-server architecture to
+                                    perform local training and global iterative aggregations, which can consume
+                                    significant bandwidth resources that are often absent in vehicular networks,
+                                    especially in high vehicle density scenarios. Modern vehicle users naturally
+                                    can collaboratively train machine learning models as they are the data owner
+                                    and have strong local computing power from the onboard units (OBU). In this
+                                    paper, we propose a novel collaborative learning scheme for mobile vehicles
+                                    that can utilize the opportunistic vehicle-to-roadside (V2R) communication
+                                    to exploit the common priors of vehicular data without interaction with a
+                                    centralized coordinator. Specifically, vehicles perform local training
+                                    during the driving journey, and simply upload its local model to roadside
+                                    unit (RSU) encountered on the way. RSU’s model will be updated accordingly
+                                    and sent back to the vehicle via the V2R communication. We have
+                                    theoretically shown that RSUs’ models can eventually converge without a
+                                    backhaul connection. Extensive experiments upon various road configurations
+                                    demonstrate that the proposed scheme can efficiently train models among
+                                    vehicles without dedicated Internet access and scale well with both the road
+                                    range and vehicle density.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ECML PKDD’23</abbr></div>
+                        <div id="li2023decompose" class="col-sm-8">
+                            <div class="title">Decompose, Then Reconstruct: A Framework of Network Structures
+                                for Click-Through Rate Prediction</div>
+                            <div class="author"> Jiaming Li, Lang Lang, Zhenlong Zhu, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Haozhao Wang, Ruixuan Li, Wenchao Xu' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>In Joint European Conference on Machine Learning and
+                                    Knowledge Discovery in Databases</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_25"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Feature interaction networks are crucial for click-through rate (CTR)
+                                    prediction in many applications. Extensive studies have been conducted to
+                                    boost CTR accuracy by constructing effective structures of models. However,
+                                    the performance of feature interaction networks is greatly influenced by the
+                                    prior assumptions made by the model designer regarding its structure.
+                                    Furthermore, the structures of models are highly interdependent, and
+                                    launching models in different scenarios can be arduous and time-consuming.
+                                    To address these limitations, we introduce a novel framework called DTR,
+                                    which redefines the CTR feature interaction paradigm from a new perspective,
+                                    allowing for the decoupling of its structure. Specifically, DTR first
+                                    decomposes these models into individual structures and then reconstructs
+                                    them within a unified model structure space, consisting of three stages:
+                                    Mask, Kernel, and Compression. Each stage of DTR’s exploration of a range of
+                                    structures is guided by the characteristics of the dataset or the scenario.
+                                    Theoretically, we prove that the structure space of DTR not only
+                                    incorporates a wide range of state-of-the-art models but also provides
+                                    potentials to identify better models. Experiments on two public real-world
+                                    datasets demonstrate the superiority of DTR, which outperforms
+                                    state-of-the-art models.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">INFOCOM’23</abbr></div>
+                        <div id="wang2023aocc" class="col-sm-8">
+                            <div class="title">AOCC-FL: Federated Learning with Aligned Overlapping via
+                                Calibrated Compensation</div>
+                            <div class="author"> Haozhao Wang, Wenchao Xu, Yunfeng Fan, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Ruixuan Li, Pan Zhou' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In IEEE INFOCOM 2023-IEEE Conference on Computer
+                                    Communications</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/10229011/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Federated Learning enables collaboratively model training among a number of
+                                    distributed devices with the coordination of a centralized server, where
+                                    each device alternatively performs local gradient computation and
+                                    communication to the server. FL suffers from significant performance
+                                    degradation due to the excessive communication delay between the server and
+                                    devices, especially when the network bandwidth of these devices is limited,
+                                    which is common in edge environments. Existing methods overlap the gradient
+                                    computation and communication to hide the communication latency to
+                                    accelerate the FL training. However, the overlapping can also lead to an
+                                    inevitable gap between the local model in each device and the global model
+                                    in the server that seriously restricts the convergence rate of learning
+                                    process. To address this problem, we propose a new overlapping method for
+                                    FL, AOCC-FL, which aligns the local model with the global model via
+                                    calibrated compensation such that the communication delay can be hidden
+                                    without deteriorating the convergence performance. Theoretically, we prove
+                                    that AOCC-FL admits the same convergence rate as the non-overlapping method.
+                                    On both simulated and testbed experiments, we show that AOCC-FL achieves a
+                                    comparable convergence rate relative to the non-overlapping method while
+                                    outperforming the state-of-the-art overlapping methods.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">CVPR’23</abbr></div>
+                        <div id="wang2023dafkd" class="col-sm-8">
+                            <div class="title">DaFKD: Domain-aware Federated Knowledge Distillation</div>
+                            <div class="author"> Haozhao Wang, Yichen Li, Wenchao Xu, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Ruixuan Li, Yufeng Zhan, Zhigang Zeng' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>In Proceedings of the IEEE/CVF Conference on Computer
+                                    Vision and Pattern Recognition</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="http://openaccess.thecvf.com/content/CVPR2023/html/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.html"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Federated Distillation (FD) has recently attracted increasing attention for
+                                    its efficiency in aggregating multiple diverse local models trained from
+                                    statistically heterogeneous data of distributed clients. Existing FD methods
+                                    generally treat these models equally by merely computing the average of
+                                    their output soft predictions for some given input distillation sample,
+                                    which does not take the diversity across all local models into account, thus
+                                    leading to degraded performance of the aggregated model, especially when
+                                    some local models learn little knowledge about the sample. In this paper, we
+                                    propose a new perspective that treats the local data in each client as a
+                                    specific domain and design a novel domain knowledge aware federated
+                                    distillation method, dubbed DaFKD, that can discern the importance of each
+                                    model to the distillation sample, and thus is able to optimize the ensemble
+                                    of soft predictions from diverse models. Specifically, we employ a domain
+                                    discriminator for each client, which is trained to identify the correlation
+                                    factor between the sample and the corresponding domain. Then, to facilitate
+                                    the training of the domain discriminator while saving communication costs,
+                                    we propose sharing its partial parameters with the classification model.
+                                    Extensive experiments on various datasets and settings show that the
+                                    proposed method can improve the model accuracy by up to 6.02% compared to
+                                    state-of-the-art baselines.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">CVPR’23</abbr></div>
+                        <div id="fan2023pmr" class="col-sm-8">
+                            <div class="title">PMR: Prototypical Modal Rebalance for Multimodal Learning</div>
+                            <div class="author"> Yunfeng Fan, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Junxiao Wang, Song Guo' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In Proceedings of the IEEE/CVF Conference on Computer
+                                    Vision and Pattern Recognition</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.html"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Multimodal learning (MML) aims to jointly exploit the common priors of
+                                    different modalities to compensate for their inherent limitations. However,
+                                    existing MML methods often optimize a uniform objective for different
+                                    modalities, leading to the notorious" modality imbalance" problem and
+                                    counterproductive MML performance. To address the problem, some existing
+                                    methods modulate the learning pace based on the fused modality, which is
+                                    dominated by the better modality and eventually results in a limited
+                                    improvement on the worse modal. To better exploit the features of
+                                    multimodal, we propose Prototypical Modality Rebalance (PMR) to perform
+                                    stimulation on the particular slow-learning modality without interference
+                                    from other modalities. Specifically, we introduce the prototypes that
+                                    represent general features for each class, to build the non-parametric
+                                    classifiers for uni-modal performance evaluation. Then, we try to accelerate
+                                    the slow-learning modality by enhancing its clustering toward prototypes.
+                                    Furthermore, to alleviate the suppression from the dominant modality, we
+                                    introduce a prototype-based entropy regularization term during the early
+                                    training stage to prevent premature convergence. Besides, our method only
+                                    relies on the representations of each modality and without restrictions from
+                                    model structures and fusion methods, making it with great application
+                                    potential for various scenarios. The source code is available here.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICML’23</abbr></div>
+                        <div id="zhang2023unbiased" class="col-sm-8">
+                            <div class="title">Towards Unbiased Training in Federated Open-world Semi-supervised
+                                Learning</div>
+                            <div class="author"> Jie Zhang, Xiaosong Ma, Song Guo, and <span
+                                    class="more-authors" title="click to view 1 more author"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '1 more author' ? 'Wenchao Xu' : '1 more author'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">1
+                                    more author</span> </div>
+                            <div class="periodical">  <em>In Proceedings of the 40th International Conference on Machine Learning</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://dl.acm.org/doi/abs/10.5555/3618408.3620149"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Federated Semi-supervised Learning (FedSSL) has emerged as a new paradigm for
+                                    allowing distributed clients to collaboratively train a machine learning
+                                    model over scarce labeled data and abundant unlabeled data. However,
+                                    existing works for FedSSL rely on a closed-world assumption that all local
+                                    training data and global testing data are from seen classes observed in the
+                                    labeled dataset. It is crucial to go one step further: adapting FL models to
+                                    an open-world setting, where unseen classes exist in the unlabeled data. In
+                                    this paper, we propose a novel Federatedopen-world Semi-Supervised Learning
+                                    (FedoSSL) framework, which can solve the key challenge in distributed and
+                                    open-world settings, i.e., the biased training process for heterogeneously
+                                    distributed unseen classes. Specifically, since the advent of a certain
+                                    unseen class depends on a client basis, the locally unseen classes (exist in
+                                    multiple clients) are likely to receive differentiated superior aggregation
+                                    effects than the globally unseen classes (exist only in one client). We
+                                    adopt an uncertainty-aware suppressed loss to alleviate the biased training
+                                    between locally unseen and globally unseen classes. Besides, we enable a
+                                    calibration module supplementary to the global aggregation to avoid
+                                    potential conflicting knowledge transfer caused by inconsistent data
+                                    distribution among different clients. The proposed FedoSSL can be easily
+                                    adapted to state-of-the-art FL methods, which is also validated via
+                                    extensive experiments on benchmarks and real-world datasets (CIFAR-10,
+                                    CIFAR-100 and CINIC-10).</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">NIPS’23</abbr></div>
+                        <div id="key" class="col-sm-8">
+                            <div class="title">SwapPrompt: Test-Time Prompt Adaptation for Vision-Language
+                                Models</div>
+                            <div class="author"> Xiaosong Ma, Jie Zhang, Song Guo, and <span
+                                    class="more-authors" title="click to view 1 more author"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '1 more author' ? 'Wenchao Xu' : '1 more author'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">1
+                                    more author</span> </div>
+                            <div class="periodical"> <em>Advances in Neural Information Processing Systems</em>,
+                                2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://neurips.cc/virtual/2023/poster/72303"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Test-time adaptation (TTA) is a special and practical setting in unsupervised
+                                    domain adaptation, which allows a pre-trained model in a source domain to
+                                    adapt to unlabeled test data in another target domain. To avoid the
+                                    computation-intensive backbone fine-tuning process, the zero-shot
+                                    generalization potentials of the emerging pre-trained vision-language models
+                                    (e.g., CLIP, CoOp) are leveraged to only tune the run-time prompt for unseen
+                                    test domains. However, existing solutions have yet to fully exploit the
+                                    representation capabilities of pre-trained models as they only focus on the
+                                    entropy-based optimization and the performance is far below the supervised
+                                    prompt adaptation methods, e.g., CoOp. In this paper, we propose SwapPrompt,
+                                    a novel framework that can effectively leverage the self-supervised
+                                    contrastive learning to facilitate the test-time prompt adaptation.
+                                    SwapPrompt employs a dual prompts paradigm, i.e., an online prompt and a
+                                    target prompt that averaged from the online prompt to retain historical
+                                    information. In addition, SwapPrompt applies a swapped prediction mechanism,
+                                    which takes advantage of the representation capabilities of pre-trained
+                                    models to enhance the online prompt via contrastive learning. Specifically,
+                                    we use the online prompt together with an augmented view of the input image
+                                    to predict the class assignment generated by the target prompt together with
+                                    an alternative augmented view of the same image. The proposed SwapPrompt can
+                                    be easily deployed on vision-language models without additional requirement,
+                                    and experimental results show that it achieves state-of-the-art test-time
+                                    adaptation performance on ImageNet and nine other datasets. It is also shown
+                                    that SwapPrompt can even achieve comparable performance with supervised
+                                    prompt adaptation methods.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">IEEE WC’23</abbr></div>
+                        <div id="chen2023towards" class="col-sm-8">
+                            <div class="title">Towards Multi-user Access Fairness in Reconfigurable Intelligent
+                                Surface Assisted Wireless Networks</div>
+                            <div class="author"> Jinsong Chen, Wenchao Xu, Penghui Hu, and <span
+                                    class="more-authors" title="click to view 4 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '4 more authors' ? 'Jian Wang, Ke Chen, Yijun Feng, Song Guo' : '4 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">4 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Wireless Communications</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/10107712/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Reconfigurable intelligent surface (RIS) provides additional physical
+                                    channels to existing wireless network infrastructure and has attracted
+                                    intensive research attention to enhance the communication capacity and
+                                    extend additional user accommodation. Existing RIS researches mainly focus
+                                    on optimizing the physical-layer channel utilization, and have yet to
+                                    consider the multi-user fairness of the medium access process when involving
+                                    the RIS channel. This article shows that RIS can lead to severely unbalanced
+                                    access opportunities among RIS-assisted users and others from the
+                                    experimental analysis. Specifically, we demonstrate that due to the capture
+                                    effect and unbalanced receiving rate of management frames, RIS-assisted
+                                    users can have unfair competitive priorities to normal users without RIS
+                                    resources. To overcome such unfair access issues, we propose a novel
+                                    antiunfair algorithm that allows equal access opportunities for all kinds of
+                                    users in a RIS-assisted network. Specifically, we optimize the management
+                                    frames’ modulation and coding scheme (MCS) selections to fight against
+                                    unexpected bias to balance the access opportunities. We have conducted an
+                                    experimental evaluation with a practical RIS system showing that the
+                                    proposed antiunfair algorithm can significantly alleviate the fairness
+                                    problem without compromising the network performance.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">TWC’23</abbr></div>
+                        <div id="dong2023optimization" class="col-sm-8">
+                            <div class="title">Optimization-Driven DRL Based Joint Beamformer Design for
+                                IRS-Aided ITSN Against Smart Jamming Attacks</div>
+                            <div class="author"> Hao Dong, Cunqing Hua, Lingya Liu, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Wenchao Xu, Song Guo' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Transactions on Wireless Communications</em>, 2023
+                            </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/10145087/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>This paper investigates an intelligent reflecting surfaces (IRS) aided
+                                    anti-jamming communication strategy in the integrated terrestrial-satellite
+                                    network (ITSN), where the IRS is exploited to mitigate jamming interference
+                                    and enhance the integrated system communication performance. In such a
+                                    network, the terrestrial network and satellite network are co-existing with
+                                    a spectrum-sharing scheme in the presence of a multi-antenna jammer. We aim
+                                    at maximizing the weighted sum rate (WSR) of all users by jointly optimizing
+                                    the terrestrial beamformers and IRS phase shifts while considering the
+                                    signal-to-interference-plus-noise ratio (SINR) requirements of legitimate
+                                    users. Different from the non-convex optimization techniques utilized in the
+                                    IRS-related problem, a novel optimization-driven deep reinforcement learning
+                                    (DRL) algorithm is proposed, which leverages both the robustness of
+                                    model-free learning approaches and the efficiency of model-based
+                                    optimization methods. In the optimization module of the proposed algorithm,
+                                    we analyze the smart jammer under the unknown jamming model and derive a
+                                    lower bound of the anti-jamming uncertainty, such that the IRS-aided
+                                    anti-jamming problem can be solved by alteration method with second-order
+                                    cone programming (SOCP) algorithm and semidefinite relaxation (SDR)
+                                    technique. Simulation results demonstrate that the IRS can enhance the
+                                    anti-jamming performance efficiently, and the proposed optimization-driven
+                                    DRL algorithm can improve both the learning rate and the system performance
+                                    compared with existing solutions.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">TMC’23</abbr></div>
+                        <div id="xie2023aircon" class="col-sm-8">
+                            <div class="title">AirCon: Over-the-air consensus for wireless blockchain networks
+                            </div>
+                            <div class="author"> Xin Xie, Cunqing Hua, Jianan Hong, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Pengwenlong Gu, Wenchao Xu' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Transactions on Mobile Computing</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/10177812/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Blockchain has been deemed as a promising solution for providing security and
+                                    privacy protection in the next-generation wireless networks. Large-scale
+                                    concurrent access for massive wireless devices to accomplish the consensus
+                                    procedure may consume prohibitive communication and computing resources, and
+                                    thus may limit the application of blockchain in wireless conditions. As most
+                                    existing consensus protocols are designed for wired networks, directly apply
+                                    them for wireless users equipment (UEs) may exhaust their scarce spectrum
+                                    and computing resources. In this paper, we propose AirCon, a byzantine
+                                    fault-tolerant (BFT) consensus protocol for wireless UEs via the
+                                    over-the-air computation. The novelty of AirCon is to take advantage of the
+                                    intrinsic characteristic of the wireless channel and automatically achieve
+                                    the consensus in the physical layer while receiving from the UEs, which
+                                    greatly reduces the communication and computational cost that would be
+                                    caused by traditional consensus protocols. We implement the AirCon protocol
+                                    integrated into an LTE system and provide solutions to the critical issues
+                                    for over-the-air consensus implementation. Experimental results are provided
+                                    to show the feasibility of the proposed protocol, and simulation results to
+                                    show the performance of the AirCon protocol under different wireless
+                                    conditions.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">TMC’23</abbr></div>
+                        <div id="shen2023ringsfl" class="col-sm-8">
+                            <div class="title">RingSFL: An Adaptive Split Federated Learning Towards Taming
+                                Client Heterogeneity</div>
+                            <div class="author"> Jinglong Shen, Nan Cheng, Xiucheng Wang, and <span
+                                    class="more-authors" title="click to view 5 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '5 more authors' ? 'Feng Lyu, Wenchao Xu, Zhi Liu, Khalid Aldubaikhy, Xuemin Shen' : '5 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">5 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Transactions on Mobile Computing</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/10234718/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Federated learning (FL) has gained increasing attention due to its ability to
+                                    collaboratively train while protecting client data privacy. However, vanilla
+                                    FL cannot adapt to client heterogeneity, leading to a degradation in
+                                    training efficiency due to stragglers, and is still vulnerable to privacy
+                                    leakage. To address these issues, this paper proposes RingSFL, a novel
+                                    distributed learning scheme that integrates FL with a model split mechanism
+                                    to adapt to client heterogeneity while maintaining data privacy. In RingSFL,
+                                    all clients form a ring topology. For each client, instead of training the
+                                    model locally, the model is split and trained among all clients along the
+                                    ring through a pre-defined direction. By properly setting the propagation
+                                    lengths of heterogeneous clients, the straggler effect is mitigated, and the
+                                    training efficiency of the system is significantly enhanced. Additionally,
+                                    since the local models are blended, it is less likely for an eavesdropper to
+                                    obtain the complete model and recover the raw data, thus improving data
+                                    privacy. The experimental results on both simulation and prototype systems
+                                    show that RingSFL can achieve better convergence performance than benchmark
+                                    methods on independently identically distributed (IID) and non-IID datasets,
+                                    while effectively preventing eavesdroppers from recovering training data.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
+                <!-- <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">TMC’23</abbr></div>
+                        <div id="wu2023long" class="col-sm-8">
+                            <div class="title">Long-Term Adaptive VCG Auction Mechanism for Sustainable
+                                Federated Learning With Periodical Client Shifting</div>
+                            <div class="author"> Leijie Wu, Song Guo, Zicong Hong, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Yi Liu, Wenchao Xu, Yufeng Zhan' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Transactions on Mobile Computing</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/10255325/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Federated Learning (FL) system needs to incentivize clients since they may be
+                                    reluctant to participate in the resource consuming process. Existing
+                                    incentive mechanisms fail to construct a sustainable environment for the
+                                    long-term development of FL system: 1) They seldom focus on system economic
+                                    properties (e.g., social welfare, individual rationality, and incentive
+                                    compatibility) to guarantee client attraction. 2) Current online auction
+                                    modeling methods divide the whole continual process into multiple
+                                    independent rounds and solve them one-by-one, which breaks the correlation
+                                    between each round. Besides, the inherent characteristics of FL system
+                                    (model-agnostic and privacy-sensitive) also prevent it from the optimal
+                                    strategy by precise mathematical analysis. 3) Current system modelings
+                                    ignore the practical problem of periodical client shifting, which cannot
+                                    adaptively update its strategy to handle system dynamics. To overcome the
+                                    above challenges, this paper proposes a long-term adaptive
+                                    Vickrey-Clarke-Groves (VCG) auction mechanism for FL system, which
+                                    incorporate a multi-branch deep reinforcement learning (DRL) algorithm.
+                                    First, VCG auction is the only one that can simultaneously guarantee all
+                                    crucial economic properties. Second, we extend the economic properties to
+                                    long-term forms and apply the experience-driven DRL algorithm to directly
+                                    obtain long-term optimal strategy, without any prior system knowledge.
+                                    Third, we reconstruct a multi-branch DRL network to accommodate periodical
+                                    client shifting by adaptive decision head switching for different time
+                                    periods. Finally, we theoretically prove he extended economic properties
+                                    (i.e., IC) and conduct extensive experiments on several real-world datasets.
+                                    Compared with state-of-the-art approaches, the long-term social welfare of
+                                    FL system increases by 36% with a 37% reduction in payment. Besides, the
+                                    multi-branch network can adaptively handle periodical client shifting on the
+                                    timeline.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">TMC’23</abbr></div>
+                        <div id="xu2023fast" class="col-sm-8">
+                            <div class="title">Fast Packet Loss Inferring via Personalized Simulation-Reality
+                                Distillation</div>
+                            <div class="author"> Wenchao Xu, Haodong Wan, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 4 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '4 more authors' ? 'Nan Cheng, Quan Chen, Haibo Zhou, Song Guo' : '4 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">4 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Transactions on Mobile Computing</em>, 2023 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/10138917"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Packet loss inferring can enable a transceiver to distinguish between channel
+                                    impairment and collision for transmission failures, and thus can improve the
+                                    network performance by exclusively performing rate adaptation or adjusting
+                                    the medium access parameter. Machine learning methods from literature have
+                                    shown great potential in producing models that can detect the loss causes
+                                    over various network trace, however haven’t considered accurate data-driven
+                                    loss inferring on resource-constrained devices that cannot accommodate deep
+                                    models. In this paper, we propose a novel packet loss inferring framework
+                                    that can train lightweight models to distinguish between channel losses and
+                                    collisions by learning the data trace from both simulation and real devices.
+                                    Specifically, we first train a sophisticated teacher model based on
+                                    extensive simulation datasets, whose knowledge is then transferred to a
+                                    small student model that can be deployed on tiny device. The
+                                    simulation-reality distillation is conducted via personalized trace from
+                                    each client correspondingly, whose performance bound is analytically
+                                    guaranteed. We have implemented our method on real testbed and show that the
+                                    network access performance can be significantly improved, especially for
+                                    sudden network variations.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
+            <h2 class="bibliography">2022</h2>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">TPDS’22</abbr></div>
+                        <div id="jin2022ps+" class="col-sm-8">
+                            <div class="title">PS+: A Simple yet Effective Framework for Fast Training on
+                                Parameter Server</div>
+                            <div class="author"> A-Long Jin, Wenchao Xu, Song Guo, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Bing Hu, Kwan Yeung' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Transactions on Parallel and Distributed
+                                    Systems</em>, 2022 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/9864063/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>In distributed training, workers collaboratively refine the global model
+                                    parameters by pushing their updates to the Parameter Server and pulling
+                                    fresher parameters for the next iteration. This introduces high
+                                    communication costs for training at scale, and incurs unproductive waiting
+                                    time for workers. To minimize the waiting time, existing approaches overlap
+                                    communication and computation for deep neural networks. Yet, these
+                                    techniques not only require the layer-by-layer model structures, but also
+                                    need significant efforts in runtime profiling and hyperparameter tuning. To
+                                    make the overlapping optimization simple and generic , in this article, we
+                                    propose a new Parameter Server framework. Our solution decouples the
+                                    dependency between push and pull operations, and allows workers to eagerly
+                                    pull the global parameters. This way, both push and pull operations can be
+                                    easily overlapped with computations. Besides, the overlapping manner offers
+                                    a different way to address the straggler problem, where the stale updates
+                                    greatly retard the training process. In the new framework, with adequate
+                                    information available to workers, they can explicitly modulate the learning
+                                    rates for their updates. Thus, the global parameters can be less compromised
+                                    by stale updates. We implement a prototype system in PyTorch and demonstrate
+                                    its effectiveness on both CPU/GPU clusters. Experimental results show that
+                                    our prototype saves up to 54% less time for each iteration and up to 37%
+                                    fewer iterations for model convergence, achieving up to 2.86× speedup over
+                                    widely-used synchronization schemes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol> -->
+            <!-- <h2 class="bibliography">2021</h2>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">TVT’21</abbr></div>
+                        <div id="hu2021leveraging" class="col-sm-8">
+                            <div class="title">Leveraging blockchain for multi-operator access sharing
+                                management in Internet of vehicles</div>
+                            <div class="author"> Dou Hu, Jiacheng Chen, Haibo Zhou, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Kai Yu, Bo Qian, Wenchao Xu' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>IEEE Transactions on Vehicular Technology</em>, 2021
+                            </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/9655494/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Wireless service providers (WSPs) are seeking cooperation to share both
+                                    resources (spectrum, infrastructures) and costs. In particular, cooperation
+                                    is critical for vehicle-to-everything (V2X) applications that value
+                                    quality-of-service foremost. However, cooperation is inefficient without
+                                    strong trust bases. Recently, blockchain arises as a promising solution to
+                                    decentralized trust, owing to its transparency and immutability. Therefore,
+                                    we propose a WSP cooperation framework based on blockchain, which keeps a
+                                    shared ledger on resource utilization. In this paper, we first study the WSP
+                                    selection problem of vehicles by evolutionary game. Then, we make the
+                                    blockchain public to vehicles to maintain its decentralization and enhance
+                                    its security by crowdsourcing idle computing resources from vehicles. To
+                                    deal with the mobility of vehicles, as well as to improve the consensus
+                                    efficiency, we propose delegated proof-of-work (DPoW) scheme, which
+                                    introduces delegate nodes for participating in the blockchain consensus on
+                                    behalf of the vehicles. The alternating direction method of multipliers
+                                    (ADMM) optimization framework is further used to derive optimal consensus
+                                    parameters including block size, computing resource demand of delegate
+                                    nodes, and prices paid for vehicles. We conduct extensive simulations to
+                                    show the effectiveness of the proposed methods.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">NIPS’21</abbr></div>
+                        <div id="zhang2021parameterized" class="col-sm-8">
+                            <div class="title">Parameterized knowledge transfer for personalized federated
+                                learning</div>
+                            <div class="author"> Jie Zhang, Song Guo, Xiaosong Ma, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Haozhao Wang, Wenchao Xu, Feijie Wu' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>Advances in Neural Information Processing Systems</em>,
+                                2021 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://proceedings.neurips.cc/paper_files/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>In recent years, personalized federated learning (pFL) has attracted
+                                    increasing attention for its potential in dealing with statistical
+                                    heterogeneity among clients. However, the state-of-the-art pFL methods rely
+                                    on model parameters aggregation at the server side, which require all models
+                                    to have the same structure and size, and thus limits the application for
+                                    more heterogeneous scenarios. To deal with such model constraints, we
+                                    exploit the potentials of heterogeneous model settings and propose a novel
+                                    training framework to employ personalized models for different clients.
+                                    Specifically, we formulate the aggregation procedure in original pFL into a
+                                    personalized group knowledge transfer training algorithm, namely, KT-pFL,
+                                    which enables each client to maintain a personalized soft prediction at the
+                                    server side to guide the others’ local training. KT-pFL updates the
+                                    personalized soft prediction of each client by a linear combination of all
+                                    local soft predictions using a knowledge coefficient matrix, which can
+                                    adaptively reinforce the collaboration among clients who own similar data
+                                    distribution. Furthermore, to quantify the contributions of each client to
+                                    others’ personalized training, the knowledge coefficient matrix is
+                                    parameterized so that it can be trained simultaneously with the models. The
+                                    knowledge coefficient matrix and the model parameters are alternatively
+                                    updated in each round following the gradient descent way. Extensive
+                                    experiments on various datasets (EMNIST, Fashion_MNIST, CIFAR-10) are
+                                    conducted under different settings (heterogeneous models and data
+                                    distributions). It is demonstrated that the proposed framework is the first
+                                    federated learning paradigm that realizes personalized model training via
+                                    parameterized group knowledge transfer while achieving significant
+                                    performance gain comparing with state-of-the-art algorithms.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol> -->
+            <!-- <h2 class="bibliography">2020</h2>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">Proc. IEEE’20</abbr></div>
+                        <div id="zhou2020evolutionary" class="col-sm-8">
+                            <div class="title">Evolutionary V2X technologies toward the Internet of vehicles:
+                                Challenges and opportunities</div>
+                            <div class="author"> Haibo Zhou, Wenchao Xu, Jiacheng Chen, and <span
+                                    class="more-authors" title="click to view 1 more author"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '1 more author' ? 'Wei Wang' : '1 more author'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">1
+                                    more author</span> </div>
+                            <div class="periodical"> <em>Proceedings of the IEEE</em>, 2020 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://ieeexplore.ieee.org/abstract/document/8967260/"
+                                    class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener"
+                                    target="_blank">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>To enable large-scale and ubiquitous automotive network access, traditional
+                                    vehicle-to-everything (V2X) technologies are evolving to the Internet of
+                                    Vehicles (IoV) for increasing demands on emerging advanced vehicular
+                                    applications, such as intelligent transportation systems (ITS) and
+                                    autonomous vehicles. In recent years, IoV technologies have been developed
+                                    and achieved significant progress. However, it is still unclear what is the
+                                    evolution path and what are the challenges and opportunities brought by IoV.
+                                    For the aforementioned considerations, this article provides a thorough
+                                    survey on the historical process and status quo of V2X technologies, as well
+                                    as demonstration of emerging technology developing directions toward IoV. We
+                                    first review the early stage when the dedicated short-range communications
+                                    (DSRC) was issued as an important initial beginning and compared the
+                                    cellular V2X with IEEE 802.11 V2X communications in terms of both the pros
+                                    and cons. In addition, considering the advent of big data and cloud-edge
+                                    regime, we highlight the key technical challenges and pinpoint the
+                                    opportunities toward the big data-driven IoV and cloud-based IoV,
+                                    respectively. We believe our comprehensive survey on evolutionary V2X
+                                    technologies toward IoV can provide beneficial insights and inspirations for
+                                    both academia and the IoV industry.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol> -->
+        </div>
+    </article>
+</div>

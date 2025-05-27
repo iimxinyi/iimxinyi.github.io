@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Xinyi Zhuang (庄新一)"
 excerpt: ""
 author_profile: true
 redirect_from: 

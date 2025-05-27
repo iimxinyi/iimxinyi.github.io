@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyi Zhuang"
   avatar           : "images/zxy.jpg"
-  bio              : "庄新一"
+  bio              : 
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 

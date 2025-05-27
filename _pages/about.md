@@ -51,16 +51,15 @@ Summary: 1 out of 1 journal papers are published in CCF A journals, 1 out of 1 j
 Summary: 1 out of 3 conference papers are published in CCF A conference proceedings, and 2 out of 3 conference papers are published in CCF A/B/C conference proceedings.
 - <span style="background-color: #cc6666; color: white; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services,” in Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM), Accepted, 2025. (**CCF A**)
 - <span style="background-color: #99cc33; color: white; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks,” in Proc. IEEE Int. Conf. Commun. (ICC), Accepted, 2025. (CCF C)
-- <span style="background-color: #cc9933; color: white; padding: 1px 4px; font-size: 12px;">``WiOpt 2024``</span> H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, “Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model,” in Proc. Int. Symp. Model. Optim. Mobile, Ad Hoc, Wireless Netw. (WiOpt), Seoul, Republic of Korea, Oct. 2024, pp. 345-352.
+- <span style="background-color: #cc9933; color: white; padding: 1px 4px; font-size: 12px;">``WiOpt 2024``</span> H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, “[Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model](https://ieeexplore.ieee.org/document/10778362),” in Proc. Int. Symp. Model. Optim. Mobile, Ad Hoc, Wireless Netw. (WiOpt), Seoul, Republic of Korea, Oct. 2024, pp. 345-352.
 
 
 # 🎖 Honors and Awards
-- *2023* Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.
-- *2023* Outstanding Graduate (10%), Northwestern Polytechnical University.
-- *2023* Soaring Scholarship (1%), Beijing International Trust Co., Ltd.
+- *2023.05* Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.
+- *2023.05* Outstanding Graduate (10%), Northwestern Polytechnical University.
+- *2022.11* Soaring Scholarship (1%), Beijing International Trust Co., Ltd.
 
 
 # 💬 Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.12*, Multi-Task Hybrid Inference Optimization for Large Vision Models (with Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
 

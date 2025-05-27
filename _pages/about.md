@@ -26,7 +26,8 @@ My research interests include Large Vision Model (LVM), Large Language Model (LL
 Feel free to contact me for communication and collaboration: zhuangxinyi@stu.hit.edu.cn
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Journal on Selected Areas in Communications (JSAC).
+- *2025.05*: &nbsp;🎉🎉 One corresponding-author paper has been submitted to IEEE Global Communications Conference (GLOBECOM).
 
 # 📝 Publications 
 

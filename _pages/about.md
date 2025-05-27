@@ -23,11 +23,17 @@ Now, I am pursuing my Ph.D. degree in Information and Communication Engineering 
 
 My research interests include Large Vision Model (LVM), Large Language Model (LLM), Mobile Edge Computing (MEC), Multi-Agent Deep Reinforcement Learning (MADRL), and Game Theory.
 
-Feel free to contact me for communication and collaboration: zhuangxinyi@stu.hit.edu.cn
+Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Journal on Selected Areas in Communications (JSAC).
 - *2025.05*: &nbsp;🎉🎉 One corresponding-author paper has been submitted to IEEE Global Communications Conference (GLOBECOM).
+
+
+# 📖 Educations
+- *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University.
+- *2015.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen.
+
 
 # 📝 Publications 
 
@@ -48,10 +54,6 @@ Feel free to contact me for communication and collaboration: zhuangxinyi@stu.hit
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Xinyi Zhuang (庄新一)
-Hi, I'm a second-year Ph.D. student at School of Information Science and Technology, Harbin Institute of Technology, Shenzhen.
+Hi, I'm a second-year direct-track Ph.D. student at School of Information Science and Technology, Harbin Institute of Technology, Shenzhen.
 I received my B.E. degree in Communication Engineering from Northwestern Polytechnical University in 2023.
 Now, I am pursuing my Ph.D. degree in Information and Communication Engineering at Harbin Institute of Technology, Shenzhen, under the supervision of Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en).
 

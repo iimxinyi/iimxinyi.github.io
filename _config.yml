@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyi Zhuang"
   avatar           : "images/zxy.jpg"
-  bio              : 
+  bio              : "https://iimxinyi.github.io/ZXY_CV.pdf"
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "https://ieeexplore.ieee.org/author/37087536007"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IkhGGKUAAAAJ&hl=en&authuser=1&oi=ao"
   email            : "zhuangxinyi@stu.hit.edu.cn"

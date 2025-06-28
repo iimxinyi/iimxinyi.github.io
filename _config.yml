@@ -23,20 +23,20 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyi Zhuang"
   avatar           : "images/zxy.jpg"
-  bio              : "https://iimxinyi.github.io/ZXY_CV.pdf"
+  bio              : 
   location         : "Shenzhen, China"
-  employer         : "https://ieeexplore.ieee.org/author/37087536007"
-  pubmed           : 
+  employer         : 
+  pubmed           : "https://ieeexplore.ieee.org/author/37087536007"
   googlescholar    : "https://scholar.google.com/citations?user=IkhGGKUAAAAJ&hl=en&authuser=1&oi=ao"
   email            : "zhuangxinyi@stu.hit.edu.cn"
-  researchgate     : 
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  researchgate     : "https://ieeexplore.ieee.org/author/37087536007"
+  uri              : "https://ieeexplore.ieee.org/author/37087536007"
+  bitbucket        : "https://ieeexplore.ieee.org/author/37087536007"
+  codepen          : "https://ieeexplore.ieee.org/author/37087536007"
+  dribbble         : "https://ieeexplore.ieee.org/author/37087536007"
+  flickr           : "https://ieeexplore.ieee.org/author/37087536007"
+  facebook         : "https://ieeexplore.ieee.org/author/37087536007"
+  foursquare       : "https://ieeexplore.ieee.org/author/37087536007"
   github           : "iimxinyi"
   google_plus      :
   keybase          :

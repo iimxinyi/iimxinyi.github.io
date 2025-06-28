@@ -33,7 +33,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 📖 Educations
 - *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University.
-- *2015.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen.
+- *2023.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen.
 
 
 # 📝 Selected First-Author Publications

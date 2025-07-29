@@ -28,7 +28,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Journal on Selected Areas in Communications (JSAC).
-- *2025.05*: &nbsp;🎉🎉 One corresponding-author paper has been submitted to IEEE Global Communications Conference (GLOBECOM).
+- *2025.07*: &nbsp;🎉🎉 One corresponding-author paper has been submitted to IFIP International Conference on Network and Parallel Computing (NPC).
 
 
 # 📖 Educations

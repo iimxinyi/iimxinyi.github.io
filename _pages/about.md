@@ -27,12 +27,12 @@ My research interests include Networks for Large AI Models and AI for Networking
 Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Journal on Selected Areas in Communications (JSAC).
+- *2025.09*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Mobile Computing.
 
 
 # 📖 Educations
-- *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University.
-- *2023.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen.
+- *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University (NWPU).
+- *2023.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen (HITsz).
 
 
 # 📝 Selected First-Author Publications

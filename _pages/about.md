@@ -44,7 +44,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 # 📄 Full Publications
 #### Journal Papers:
 Summary: 1 out of 1 journal papers are published in CCF A journals, 1 out of 1 journal papers are published in SCI Q1 journals, and 1 out of 1 journal papers are published in JCR Q1 journals.
-- <span style="background-color: #33cccc; color: white; padding: 1px 4px; font-size: 12px;">``TMC 2025``</span> J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “[QoE-aware offloading and resource allocation for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/10972066),” IEEE Trans. Mobile Comput., Early Access, 2025. (**CCF A**, **SCI Q1**)
+- <span style="background-color: #33cccc; color: white; padding: 1px 4px; font-size: 12px;">``TMC 2025``</span> J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “[QoE-aware offloading and resource allocation for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/10972066),” IEEE Trans. Mobile Comput., vol. 24, no. 10, pp. 9664-9682, Oct. 2025. (**CCF A**, **SCI Q1**)
 
 #### Conference Papers:
 Summary: 1 out of 4 conference papers are published in CCF A conference proceedings, and 2 out of 4 conference papers are published in CCF B/C conference proceedings.

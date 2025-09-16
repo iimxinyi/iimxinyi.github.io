@@ -19,7 +19,7 @@ redirect_from:
 
 # Xinyi Zhuang (庄新一)
 Hi, I'm a third-year direct-track Ph.D. student at the School of Information Science and Technology, Harbin Institute of Technology, Shenzhen.
-I received my B.E. degree in Communication Engineering from Northwestern Polytechnical University (NWPU) in 2023.
+I received my B.Eng. degree in Communication Engineering from Northwestern Polytechnical University (NWPU) in 2023.
 Now, I am pursuing my Ph.D. degree in Information and Communication Engineering at Harbin Institute of Technology, Shenzhen (HITsz), under the supervision of Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en).
 
 My research interests include Networks for Large AI Models and AI for Networking.

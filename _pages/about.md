@@ -63,5 +63,5 @@ Summary: 1 out of 4 conference papers are published in CCF A conference proceedi
 
 # 💬 Talks
 - *2024.12* Multi-Task Hybrid Inference Optimization for Large Vision Models (with my mentor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
-- *2025.11* The Theory and Application of Diffusion Models: From Fundamentals to Autonomous Path Planning, AI4Energy Group, Shenzhen Loop Area Institute.
+- *2025.11* The Theory and Application of Diffusion Models: From Fundamentals to Autonomous Path Planning, AI4Energy Group, Shenzhen Loop Area Institute (SLAI).
 

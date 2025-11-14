@@ -28,7 +28,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Mobile Computing.
-- *2025.09*: &nbsp;🎉🎉 One (co-)first-author paper has been submitted to IEEE Communications Magazine.
+- *2025.09*: &nbsp;🎉🎉 One (co-)first-author paper has been submitted to IEEE Communications Magazine (Major Revision).
 
 
 # 📖 Educations
@@ -63,4 +63,5 @@ Summary: 1 out of 4 conference papers are published in CCF A conference proceedi
 
 # 💬 Talks
 - *2024.12* Multi-Task Hybrid Inference Optimization for Large Vision Models (with my mentor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
+- *2025.11* The Theory and Application of Diffusion Models: From Fundamentals to Autonomous Path Planning, AI4Energy Group, Shenzhen Loop Area Institute.
 

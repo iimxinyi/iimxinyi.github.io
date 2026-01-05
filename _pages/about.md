@@ -28,12 +28,13 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Mobile Computing.
-- *2025.09*: &nbsp;🎉🎉 One (co-)first-author paper has been submitted to IEEE Communications Magazine (Major Revision).
+- *2025.09*: &nbsp;🎉🎉 One (co-)first-author paper has been submitted to IEEE Communications Magazine (Minor Revision).
 
 
 # 📖 Educations
 - *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University (NWPU).
 - *2023.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen (HITsz).
+- *2026.01 - Now*, Research Intern, AI Algorithm Engineer, ZTE Corporation.
 
 
 # 📝 Selected First-Author Publications
@@ -43,7 +44,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 
 # 📄 Full Publications
-#### Journal Papers:
+#### Journal/Magazine Papers:
 Summary: 1 out of 1 journal papers are published in CCF A journals, 1 out of 1 journal papers are published in SCI Q1 journals, and 1 out of 1 journal papers are published in JCR Q1 journals.
 - <span style="background-color: #33cccc; color: white; padding: 1px 4px; font-size: 12px;">``TMC 2025``</span> J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “[QoE-aware offloading and resource allocation for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/10972066),” IEEE Trans. Mobile Comput., vol. 24, no. 10, pp. 9664-9682, Oct. 2025. (**CCF A**, **SCI Q1**, **JCR Q1**)
 

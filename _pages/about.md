@@ -31,7 +31,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 - *2025.09*: &nbsp;🎉🎉 One (co-)first-author paper has been submitted to IEEE Communications Magazine (Minor Revision).
 
 
-# 📖 Educations
+# 📖 Education / Experience
 - *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University (NWPU).
 - *2023.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen (HITsz).
 - *2026.01 - Now*, AI Algorithm Engineer (Research Intern), Data Systems Department, ZTE Corporation.

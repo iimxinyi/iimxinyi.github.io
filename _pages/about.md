@@ -34,7 +34,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 # 📖 Educations
 - *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University (NWPU).
 - *2023.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen (HITsz).
-- *2026.01 - Now*, Research Intern, AI Algorithm Engineer, ZTE Corporation.
+- *2026.01 - Now*, AI Algorithm Engineer (Research Intern), Data Systems Department, ZTE Corporation.
 
 
 # 📝 Selected First-Author Publications

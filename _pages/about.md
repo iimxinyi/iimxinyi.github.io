@@ -64,9 +64,9 @@ Summary: 1 out of 4 conference papers are published in CCF A conference proceedi
 
 # 💬 Talks
 - *2024.12* Multi-task hybrid inference optimization for large vision models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
-- *2025.05* Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services (Conference paper presentation), IEEE INFOCOM 2025.
-- *2025.06* QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks (Conference paper presentation), IEEE ICC 2025.
+- *2025.05* Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services (conference paper presentation), IEEE INFOCOM 2025.
+- *2025.06* QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks (conference paper presentation), IEEE ICC 2025.
 - *2025.11* The theory and application of diffusion models: From fundamentals to autonomous path planning, AI4Energy Group, Shenzhen Loop Area Institute.
-- *2025.12* Joint optimization of offloading, scheduling, and inferencing for MEC-empowered AIGC services (Conference paper presentation), IEEE GLOBECOM 2025.
+- *2025.12* Joint optimization of offloading, scheduling, and inferencing for MEC-empowered AIGC services (conference paper presentation), IEEE GLOBECOM 2025.
 - *2025.12* Advances and reflections on enhanced inference techniques for generative diffusion models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
 

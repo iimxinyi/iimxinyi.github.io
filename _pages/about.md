@@ -28,7 +28,6 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Mobile Computing.
-- *2025.09*: &nbsp;🎉🎉 One (co-)first-author paper has been submitted to IEEE Communications Magazine (Minor Revision).
 
 
 # 📖 Education / Experience

@@ -24,7 +24,7 @@ Now, I am pursuing my Ph.D. degree in Information and Communication Engineering 
 
 My research interests include Networks for Large AI Models and AI for Networking.
 
-Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>
+Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>.
 
 # 1 News
 - *2025.09:* One first-author paper has been submitted to IEEE Transactions on Mobile Computing.

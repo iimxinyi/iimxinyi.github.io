@@ -67,3 +67,7 @@ Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 
 - *2025.11* The theory and application of diffusion models: From fundamentals to autonomous path planning, AI4Energy Group, Shenzhen Loop Area Institute.
 - *2025.12* Advances and reflections on enhanced inference techniques for generative diffusion models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
 
+
+# 🐎 Services
+- Technical Reviewers: IEEE Conference on Vehicular Technology (VTC)
+

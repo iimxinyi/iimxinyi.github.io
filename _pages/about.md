@@ -38,7 +38,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 <!-- color: #eac4d5 #d6eadf #b8e0d4 #95b8d1 #809bce -->
 # 3.1 Selected First-Author Publications
-- <span style="background:#eac4d5;padding:1px 4px;font-size:12px"><font color="#666">``INFOCOM 2025``</font></span>
+- <span style="background:#eac4d5;padding:1px 4px;font-size:12px"><font color="#666">``INFOCOM 2025``</font></span> 1
 - <span style="background-color: #eac4d5; color: #f5f5f5; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “[Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services](https://ieeexplore.ieee.org/document/11044689),” in *Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM)*, London, United Kingdom, May 2025. (**CCF A**)
 - <span style="background-color: #b8e0d4; color: #f5f5f5; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “[QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks](https://ieeexplore.ieee.org/document/11161497),” in *Proc. IEEE Int. Conf. Commun. (ICC)*, Montreal, QC, Canada, Jun. 2025, pp. 1151-1156. (CCF C)
 - <span style="background-color: #d6eadf; color: #f5f5f5; padding: 1px 4px; font-size: 12px;">``ComMag 2026``</span> H. Wu<sup>&dagger;</sup>, **Xinyi Zhuang**<sup>&dagger;</sup>, J. Wu, L. Gao, D. Niyato, and T.-T. Chan, “When AIGC meets MEC: A novel diffusion-based collaborative inference paradigm,” *IEEE Commun. Mag.*, Accepted. (<sup>&dagger;</sup>Co-First Author) (SCI Q2, **JCR Q1**)

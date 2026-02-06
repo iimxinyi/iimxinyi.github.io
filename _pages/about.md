@@ -36,7 +36,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 - *2026.01 - Now*, AI Algorithm Engineer (Research Intern), Data Systems Department, ZTE Corporation.
 
 
-<!-- color: #eac4d5 #d6eadf #b8e0d4 #95b8d1 #809bce -->
+<!-- color: https://colorkit.co/palette/1abc9c-16a085-2ecc71-27ae60-3498db-2980b9-9b59b6-8e44ad-34495e-2c3e50-f1c40f-f39c12-e67e22-d35400-e74c3c-c0392b-ecf0f1-bdc3c7-95a5a6-7f8c8d/ -->
 # 3.1 Selected First-Author Publications
 - <span style="background-color: #e74c3c; color: white; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “[Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services](https://ieeexplore.ieee.org/document/11044689),” in *Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM)*, London, United Kingdom, May 2025. (**CCF A**)
 - <span style="background-color: #27ae60; color: white; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “[QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks](https://ieeexplore.ieee.org/document/11161497),” in *Proc. IEEE Int. Conf. Commun. (ICC)*, Montreal, QC, Canada, Jun. 2025, pp. 1151-1156. (CCF C)

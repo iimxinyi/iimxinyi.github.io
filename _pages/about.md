@@ -27,7 +27,7 @@ My research interests include Networks for Large AI Models and AI for Networking
 Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>
 
 # 1 News
-- *2025.09*: &nbsp;🎉🎉 One first-author paper has been submitted to IEEE Transactions on Mobile Computing.
+- *2025.09*: One first-author paper has been submitted to IEEE Transactions on Mobile Computing.
 
 
 # 2 Education and Experience
@@ -58,17 +58,17 @@ Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 
 
 
 # 4 Honors and Awards
-- *2023.05* Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.
-- *2023.05* Outstanding Graduate (10%), Northwestern Polytechnical University.
-- *2022.11* Soaring Scholarship (1%), Beijing International Trust Co., Ltd.
+- *2023.05*: Outstanding Graduation Thesis (5%), Northwestern Polytechnical University.
+- *2023.05*: Outstanding Graduate (10%), Northwestern Polytechnical University.
+- *2022.11*: Soaring Scholarship (1%), Beijing International Trust Co., Ltd.
 
 
 # 5 Talks
-- *2024.12* Multi-task hybrid inference optimization for large vision models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
-- *2025.11* The theory and application of diffusion models: From fundamentals to autonomous path planning, AI4Energy Group, Shenzhen Loop Area Institute.
-- *2025.12* Advances and reflections on enhanced inference techniques for generative diffusion models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
+- *2024.12*: Multi-task hybrid inference optimization for large vision models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
+- *2025.11*: The theory and application of diffusion models: From fundamentals to autonomous path planning, AI4Energy Group, Shenzhen Loop Area Institute.
+- *2025.12*: Advances and reflections on enhanced inference techniques for generative diffusion models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems.
 
 
 # 6 Services
-- Technical Reviewers: IEEE Conference on Vehicular Technology (VTC)
+- Technical Reviewer for Conferences: IEEE Conference on Vehicular Technology (VTC)
 

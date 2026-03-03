@@ -28,6 +28,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 1 News
 - *2025.09:* One first-author paper has been submitted to IEEE Transactions on Mobile Computing.
+- *2026.03:* One collaborative paper has been submitted to IEEE Internet of Things Journal.
 
 
 # 2 Education and Experience

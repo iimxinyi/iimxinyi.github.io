@@ -28,7 +28,6 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 1 News
 - *2025.09:* One first-author paper has been submitted to IEEE Transactions on Mobile Computing (Major Revision).
-- *2026.03:* One collaborative paper has been submitted to IEEE Internet of Things Journal (Minor Revision).
 
 
 # 2 Education and Experience
@@ -46,9 +45,10 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 3.2 Full Publications
 #### Journal/Magazine Papers:
-Summary: 1 out of 2 papers are published in CCF A journals, 1 out of 2 papers are published in SCI Q1 journals, and 2 out of 2 papers are published in JCR Q1 journals.
+Summary: 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers are published in SCI Q1 journals, and 3 out of 3 papers are published in JCR Q1 journals.
 - <span style="background-color: #f39c12; color: white; padding: 1px 4px; font-size: 12px;">``COMMAG 2026``</span> H. Wu<sup>&dagger;</sup>, **Xinyi Zhuang**<sup>&dagger;</sup>, J. Wu, L. Gao, D. Niyato, and T.-T. Chan, “[When AIGC meets MEC: A novel diffusion-based collaborative inference paradigm](https://ieeexplore.ieee.org/document/11503883),” *IEEE Commun. Mag.*, Early Access. (<sup>&dagger;</sup>Co-First Author) (SCI Q2, **JCR Q1**)
-- <span style="background-color: #e74c3c; color: white; padding: 1px 4px; font-size: 12px;">``TMC 2025``</span> J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “[QoE-aware offloading and resource allocation for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/10972066),” IEEE Trans. Mobile Comput., vol. 24, no. 10, pp. 9664-9682, Oct. 2025. (**CCF A**, **SCI Q1**, **JCR Q1**)
+- <span style="background-color: #e74c3c; color: white; padding: 1px 4px; font-size: 12px;">``TMC 2025``</span> J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “[QoE-aware offloading and resource allocation for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/10972066),” *IEEE Trans. Mobile Comput.*, vol. 24, no. 10, pp. 9664-9682, Oct. 2025. (**CCF A**, **SCI Q1**, **JCR Q1**)
+- <span style="background-color: #c5ca30; color: white; padding: 1px 4px; font-size: 12px;">``IOT 2026``</span> H. Liu, **Xinyi Zhuang**, J. Wu, Y. Luo, B. Cao, and L. Gao, “Joint communication and computation scheduling for MEC-enabled AIGC services: A game-theoretic stochastic learning approach,” *IEEE Internet Things J.*, Accepted. (CCF C，**SCI Q1**, **JCR Q1**)
 
 #### Conference Papers:
 Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 out of 4 papers are published in CCF B/C conference proceedings.

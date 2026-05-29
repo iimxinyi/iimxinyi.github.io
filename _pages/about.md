@@ -22,53 +22,21 @@ Hi, I'm a third-year direct-track Ph.D. candidate at the School of Information S
 I received my B.Eng. degree in Communication Engineering from Northwestern Polytechnical University (NWPU) in 2023.
 Now, I am pursuing my Ph.D. degree in Information and Communication Engineering at Harbin Institute of Technology, Shenzhen (HITsz), under the supervision of Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en).
 
-My research interests include Networks for Large AI Models and AI for Networking.
+My research interest is network economics.
 
 Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>.
 
-# 1 News
-- *2025.09:* One first-author paper has been submitted to IEEE Transactions on Mobile Computing (Major Revision).
-- *2026.05:* One collaborative paper has been submitted to IEEE Transactions on Mobile Computing.
 
-
-# 2 Education and Experience
+# Education and Experience
 - *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University (NWPU).
 - *2023.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen (HITsz).
-- *2026.01 - Now*, AI Algorithm Engineer (Research Intern), Data Systems Department, ZTE Corporation.
 
 
-<!-- color: https://colorkit.co/palette/1abc9c-16a085-2ecc71-27ae60-3498db-2980b9-9b59b6-8e44ad-34495e-2c3e50-f1c40f-f39c12-e67e22-d35400-e74c3c-c0392b-ecf0f1-bdc3c7-95a5a6-7f8c8d/ -->
-# 3.1 Selected First-Author Publications
-- <span style="background-color: #e74c3c; color: white; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “[Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services](https://ieeexplore.ieee.org/document/11044689),” in *Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM)*, London, United Kingdom, May 2025. (**CCF A**)
-- <span style="background-color: #27ae60; color: white; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “[QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks](https://ieeexplore.ieee.org/document/11161497),” in *Proc. IEEE Int. Conf. Commun. (ICC)*, Montreal, QC, Canada, Jun. 2025, pp. 1151-1156. (CCF C)
-- <span style="background-color: #f39c12; color: white; padding: 1px 4px; font-size: 12px;">``COMMAG 2026``</span> H. Wu<sup>&dagger;</sup>, **Xinyi Zhuang**<sup>&dagger;</sup>, J. Wu, L. Gao, D. Niyato, and T.-T. Chan, “[When AIGC meets MEC: A novel diffusion-based collaborative inference paradigm](https://ieeexplore.ieee.org/document/11503883),” *IEEE Commun. Mag.*, Early Access. (<sup>&dagger;</sup>Co-First Author) (SCI Q2, **JCR Q1**)
-
-
-# 3.2 Full Publications
-#### Journal/Magazine Papers:
-Summary: 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers are published in SCI Q1 journals, and 3 out of 3 papers are published in JCR Q1 journals.
-- <span style="background-color: #c5ca30; color: white; padding: 1px 4px; font-size: 12px;">``IOT 2026``</span> H. Liu, **Xinyi Zhuang**, J. Wu, Y. Luo, B. Cao, and L. Gao, “[Joint communication and computation scheduling for MEC-enabled AIGC services: A game-theoretic stochastic learning approach](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IkhGGKUAAAAJ&authuser=1&citation_for_view=IkhGGKUAAAAJ:zYLM7Y9cAGgC),” *IEEE Internet Things J.*, Early Access. (CCF C，**SCI Q1**, **JCR Q1**)
-- <span style="background-color: #f39c12; color: white; padding: 1px 4px; font-size: 12px;">``COMMAG 2026``</span> H. Wu<sup>&dagger;</sup>, **Xinyi Zhuang**<sup>&dagger;</sup>, J. Wu, L. Gao, D. Niyato, and T.-T. Chan, “[When AIGC meets MEC: A novel diffusion-based collaborative inference paradigm](https://ieeexplore.ieee.org/document/11503883),” *IEEE Commun. Mag.*, Early Access. (<sup>&dagger;</sup>Co-First Author) (SCI Q2, **JCR Q1**)
-- <span style="background-color: #e74c3c; color: white; padding: 1px 4px; font-size: 12px;">``TMC 2025``</span> J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, “[QoE-aware offloading and resource allocation for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/10972066),” *IEEE Trans. Mobile Comput.*, vol. 24, no. 10, pp. 9664-9682, Oct. 2025. (**CCF A**, **SCI Q1**, **JCR Q1**)
-
-#### Conference Papers:
-Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 out of 4 papers are published in CCF B/C conference proceedings.
-- <span style="background-color: #27ae60; color: white; padding: 1px 4px; font-size: 12px;">``GLOBECOM 2025``</span> X. Guo, C. Zhang, X. Chen, D. Zhao, **Xinyi Zhuang**\*, J. Wu\*, H. Liu, and L. Gao\*, “[Joint optimization of offloading, scheduling, and inferencing for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/11431795),” in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025, pp. 823-828. (\*Corresponding Author) (CCF C)
-- <span style="background-color: #27ae60; color: white; padding: 1px 4px; font-size: 12px;">``ICC 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, “[QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks](https://ieeexplore.ieee.org/document/11161497),” in *Proc. IEEE Int. Conf. Commun. (ICC)*, Montreal, QC, Canada, Jun. 2025, pp. 1151-1156. (CCF C)
-- <span style="background-color: #e74c3c; color: white; padding: 1px 4px; font-size: 12px;">``INFOCOM 2025``</span> **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, “[Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services](https://ieeexplore.ieee.org/document/11044689),” in *Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM)*, London, United Kingdom, May 2025. (**CCF A**)
-- <span style="background-color: #3498db; color: white; padding: 1px 4px; font-size: 12px;">``WiOpt 2024``</span> H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, “[Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model](https://ieeexplore.ieee.org/document/10778362),” in *Proc. Int. Symp. Model. Optim. Mobile, Ad Hoc, Wireless Netw. (WiOpt)*, Seoul, Republic of Korea, Oct. 2024, pp. 345-352.
-
-
-# 4 Honors and Awards
+# Honors and Awards
 - Outstanding Graduation Thesis (5%), Northwestern Polytechnical University, 2023.
 - Outstanding Graduate (10%), Northwestern Polytechnical University, 2023.
 - Soaring Scholarship (1%), Beijing International Trust Co., Ltd, 2022.
 
-
-# 5 Talks
-- Advances and reflections on enhanced inference techniques for generative diffusion models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems, 2025.
-- The theory and application of diffusion models: From fundamentals to autonomous path planning, AI4Energy Group, Shenzhen Loop Area Institute, 2025.
-- Multi-task hybrid inference optimization for large vision models (in collaboration with my Ph.D. supervisor Prof. Lin Gao), International Conference on Intelligent Networks and Communication Systems, 2024.
 
 
 # 6 Services

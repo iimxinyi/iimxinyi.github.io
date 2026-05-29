@@ -39,6 +39,6 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 
 
-# 6 Services
+# Services
 - Technical Reviewer for Conferences: IEEE Conference on Vehicular Technology (VTC)
 

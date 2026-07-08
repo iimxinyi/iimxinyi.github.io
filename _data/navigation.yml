@@ -1,27 +1,20 @@
-# main links links
+# main links — the top navigation bar. Each url jumps to a section anchor
+# on the home page (ids come from the "# N Section" headings in about.md).
 main:
-  - title: Ph.D. Candidate at Harbin Institute of Technology, Shenzhen
+  - title: "News"
+    url: "/#1-news"
 
-#  - title: "About Me"
-#    url: "/#about-me"
+  - title: "Education"
+    url: "/#2-education-and-experience"
 
-#  - title: "News"
-#    url: "/#-news"
+  - title: "Publications"
+    url: "/#3-publications"
 
-#  - title: "Education and Experience"
-#    url: "/#-education-and-experience"
+  - title: "Honors"
+    url: "/#4-honors-and-awards"
 
-#  - title: "Publications"
-#    url: "/#-selected-first-author-publications"
+  - title: "Talks"
+    url: "/#5-talks"
 
-#  - title: "Honors and Awards"
-#    url: "/#-honors-and-awards"
-
-#  - title: "Talks"
-#    url: "/#-talks"
-
-#  - title: "Services"
-#    url: "/#-services"
-
-#  - title: "CV"
-#    url: "https://iimxinyi.github.io/ZXY_CV.pdf"
+  - title: "Services"
+    url: "/#6-services"

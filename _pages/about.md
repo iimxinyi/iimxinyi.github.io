@@ -109,14 +109,24 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
     text-align: justify;
   }
   .hidden { display: none; }
+  .year-divider {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #2c3e50;
+    margin: 1.4em 0 0.5em 0;
+    padding-bottom: 0.15em;
+    border-bottom: 2px solid #2980b9;
+  }
 </style>
 
 <sup>&dagger;</sup>Co-First Author &nbsp;&nbsp; \*Corresponding Author. By default, only first-author / co-first / corresponding-author papers are shown. Click the button to expand all publications on this page.
 
 <button id="pubToggleBtn" class="pub-toggle-btn" onclick="toggleAllPubs()">Show All Publications &#9660;</button>
 
-#### Journal/Magazine Papers:
-Summary: 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers are published in SCI Q1 journals, and 3 out of 3 papers are published in JCR Q1 journals.
+Summary (Journals): 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers are published in SCI Q1 journals, and 3 out of 3 papers are published in JCR Q1 journals.<br>
+Summary (Conferences): 1 out of 4 papers are published in CCF A conference proceedings, and 2 out of 4 papers are published in CCF B/C conference proceedings.
+
+<div class="year-divider">2026</div>
 
 <div class="paper-card">
 <div class="paper-badge" style="background-color: #f39c12;">COMMAG</div>
@@ -152,26 +162,9 @@ H. Liu, **Xinyi Zhuang**, J. Wu, Y. Luo, B. Cao, and L. Gao<br>
 </div>
 </div>
 
-<div class="paper-card">
-<div class="paper-badge" style="background-color: #e74c3c;">TMC</div>
-<div class="paper-content" markdown="1">
-
-<span class="pub-title">QoE-aware offloading and resource allocation for MEC-empowered AIGC services</span><br>
-J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao<br>
-<span class="pub-venue">IEEE Transactions on Mobile Computing (IEEE Trans. Mobile Comput.), vol. 24, no. 10, pp. 9664-9682, Oct. 2025</span><br>
-<span class="pub-tags">**Collaborative Author** · CCF A · SCI Q1 · JCR Q1</span>
-
-<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/10972066" target="_blank">Paper</a>
-
-<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
-
-</div>
 </div>
 
-</div>
-
-#### Conference Papers:
-Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 out of 4 papers are published in CCF B/C conference proceedings.
+<div class="year-divider">2025</div>
 
 <div class="paper-card">
 <div class="paper-badge" style="background-color: #27ae60;">GLOBECOM</div>
@@ -222,6 +215,28 @@ X. Guo, C. Zhang, X. Chen, D. Zhao, **Xinyi Zhuang**\*, J. Wu\*, H. Liu, and L. 
 </div>
 
 <div class="extra-pub">
+
+<div class="paper-card">
+<div class="paper-badge" style="background-color: #e74c3c;">TMC</div>
+<div class="paper-content" markdown="1">
+
+<span class="pub-title">QoE-aware offloading and resource allocation for MEC-empowered AIGC services</span><br>
+J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao<br>
+<span class="pub-venue">IEEE Transactions on Mobile Computing (IEEE Trans. Mobile Comput.), vol. 24, no. 10, pp. 9664-9682, Oct. 2025</span><br>
+<span class="pub-tags">**Collaborative Author** · CCF A · SCI Q1 · JCR Q1</span>
+
+<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/10972066" target="_blank">Paper</a>
+
+<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
+
+</div>
+</div>
+
+</div>
+
+<div class="extra-pub">
+
+<div class="year-divider">2024</div>
 
 <div class="paper-card">
 <div class="paper-badge" style="background-color: #3498db;">WiOpt</div>

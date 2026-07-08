@@ -53,7 +53,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 <div class="edu-card">
 <div class="edu-logo"><img src="/images/qub.jpg" alt="QUB"></div>
 <div class="edu-content">
-<div class="edu-head"><span><span class="edu-inst">Queen's University Belfast (QUB)</span><span class="edu-loc">, Belfast, UK</span></span><span class="edu-date">Sep. 2026 – Now</span></div>
+<div class="edu-head"><span><span class="edu-inst">Queen's University Belfast (QUB)</span><span class="edu-loc">, Belfast, United Kingdom</span></span><span class="edu-date">Sep. 2026 – Now</span></div>
 <div class="edu-sub">Remote Visiting Ph.D. Student (Joint Training)</div>
 </div>
 </div>

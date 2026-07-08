@@ -50,7 +50,6 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
     margin: 0.2em 0 1em 0;
     padding: 5px 16px;
     font-size: 13px;
-    font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     color: #fff;
     background-color: #2980b9;
@@ -83,13 +82,11 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   .pub-title { font-weight: bold; }
   .pub-venue { font-style: italic; }
   .pub-tags { font-size: 0.9em; color: #7f8c8d; }
-  .pub-tags strong { color: #c0392b; }
   .abs-btn, .link-btn {
     display: inline-block;
     padding: 2px 12px;
     margin: 2px 6px 2px 0;
     font-size: 12px;
-    font-family: "Times New Roman", Times, serif;
     line-height: 1.6;
     border: 1px solid #2980b9;
     border-radius: 4px;
@@ -110,16 +107,15 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   }
   .hidden { display: none; }
   .year-divider {
-    font-size: 1.2em;
+    font-size: 0.85em;
     font-weight: bold;
-    color: #2c3e50;
-    margin: 1.4em 0 0.5em 0;
-    padding-bottom: 0.15em;
-    border-bottom: 2px solid #2980b9;
+    color: #c4c4c4;
+    letter-spacing: 0.04em;
+    margin: 1.1em 0 0.1em 0;
+    padding-bottom: 0.1em;
+    border-bottom: 1px solid #ececec;
   }
 </style>
-
-<sup>&dagger;</sup>Co-First Author &nbsp;&nbsp; \*Corresponding Author. By default, only first-author / co-first / corresponding-author papers are shown. Click the button to expand all publications on this page.
 
 <button id="pubToggleBtn" class="pub-toggle-btn" onclick="toggleAllPubs()">Show All Publications &#9660;</button>
 

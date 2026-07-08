@@ -63,22 +63,21 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   .paper-card {
     display: flex;
     align-items: flex-start;
-    padding: 0.9em 0;
-    border-bottom: 1px solid #efefef;
+    padding: 0.5em 0;
   }
   .paper-badge {
     flex: 0 0 auto;
-    width: 104px;
-    margin-right: 16px;
-    padding: 5px 4px;
+    width: 76px;
+    margin-right: 14px;
+    padding: 3px 5px;
     color: #fff;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bold;
     text-align: center;
     border-radius: 4px;
   }
   .paper-content { flex: 1; }
-  .paper-content p { margin: 0 0 0.5em 0; text-align: left; line-height: 1.5; }
+  .paper-content p { margin: 0 0 0.4em 0; text-align: left; line-height: 1.4; }
   .pub-title { font-weight: bold; }
   .pub-venue { font-style: italic; }
   .pub-tags { font-size: 0.9em; color: #7f8c8d; }
@@ -107,13 +106,14 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   }
   .hidden { display: none; }
   .year-divider {
-    font-size: 0.85em;
+    text-align: right;
+    font-size: 0.8em;
     font-weight: bold;
     color: #c4c4c4;
     letter-spacing: 0.04em;
-    margin: 1.1em 0 0.1em 0;
-    padding-bottom: 0.1em;
-    border-bottom: 1px solid #ececec;
+    margin: 1.3em 0 0.2em 0;
+    padding-top: 0.15em;
+    border-top: 1px solid #ececec;
   }
 </style>
 

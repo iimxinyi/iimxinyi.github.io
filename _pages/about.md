@@ -36,7 +36,8 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 # 2 Education and Experience
 - *2019.09 - 2023.05*, Bachelor of Engineering, Communication Engineering, Northwestern Polytechnical University (NWPU).
 - *2023.09 - Now*, Doctor of Philosophy Student, Information and Communication Engineering, Harbin Institute of Technology, Shenzhen (HITsz).
-- *2026.01 - Now*, AI Algorithm Engineer (Research Intern), Data Systems Department, ZTE Corporation.
+- *2026.01 - 2026.07*, AI Algorithm Engineer (Research Intern), Data Systems Department, ZTE Corporation.
+- *2026.09 - Now*, Remote Visiting Ph.D. Student (Joint Training), Queen's University Belfast (QUB).
 
 
 <!-- color: https://colorkit.co/palette/1abc9c-16a085-2ecc71-27ae60-3498db-2980b9-9b59b6-8e44ad-34495e-2c3e50-f1c40f-f39c12-e67e22-d35400-e74c3c-c0392b-ecf0f1-bdc3c7-95a5a6-7f8c8d/ -->
@@ -47,9 +48,8 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   .extra-pub.show { display: block; }
   .pub-toggle-btn {
     display: inline-block;
-    margin: 0 0 0 10px;
-    padding: 2px 13px;
-    vertical-align: middle;
+    margin: 0.7em 0 0.3em 0;
+    padding: 4px 20px;
     font-size: 12px;
     font-weight: normal;
     color: #7f8c8d;
@@ -121,7 +121,9 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   }
 </style>
 
-Summary: Among the journal papers, 1/3 are in CCF A journals, 2/3 in SCI Q1, and 3/3 in JCR Q1; among the conference papers, 1/4 are in CCF A proceedings and 2/4 in CCF B/C. <button id="pubToggleBtn" class="pub-toggle-btn" onclick="toggleAllPubs()">Show All Publications &#9660;</button>
+Summary: Among the journal papers, 1/3 are in CCF A journals, 2/3 in SCI Q1, and 3/3 in JCR Q1; among the conference papers, 1/4 are in CCF A proceedings and 2/4 in CCF B/C.
+
+<button id="pubToggleBtn" class="pub-toggle-btn" onclick="toggleAllPubs()">Click Here to Show Full Publications &#9660;</button>
 
 {% include publications.html %}
 
@@ -134,7 +136,7 @@ function toggleAllPubs() {
     if (willShow) { extras[i].classList.add('show'); }
     else { extras[i].classList.remove('show'); }
   }
-  btn.innerHTML = willShow ? 'Show Selected Only &#9650;' : 'Show All Publications &#9660;';
+  btn.innerHTML = willShow ? 'Click Here to Show Selected Publications &#9650;' : 'Click Here to Show Full Publications &#9660;';
 }
 // Toggle a paper's abstract when its Abstract button is clicked
 document.addEventListener('click', function (e) {

@@ -83,6 +83,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   .pub-title { font-weight: bold; }
   .pub-venue { font-style: normal; }
   .pub-tags { font-size: 0.9em; color: #7f8c8d; }
+  .pub-rank { color: #1a1a1a; font-weight: bold; }
   .abs-btn, .link-btn {
     display: inline-block;
     padding: 2px 12px;

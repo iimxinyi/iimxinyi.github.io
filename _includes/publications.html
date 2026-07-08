@@ -1,4 +1,5 @@
-{%- assign pubs = site.data.publications -%}
+{%- assign pubpage = site.pages | where_exp: "p", "p.path contains 'publications.md'" | first -%}
+{%- assign pubs = pubpage.publications -%}
 {%- assign years = pubs | map: "year" | uniq | sort | reverse -%}
 {%- for year in years -%}
 {%- assign year_pubs = pubs | where: "year", year -%}

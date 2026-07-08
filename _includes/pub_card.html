@@ -5,7 +5,7 @@
 <p><span class="pub-title">{{ p.title }}</span><br>
 {{ p.authors }}<br>
 <span class="pub-venue">{{ p.venue }}</span><br>
-<span class="pub-tags"><strong>{{ p.role }}</strong>{% if p.tags and p.tags != "" %} &middot; <strong>{{ p.tags }}</strong>{% endif %}</span></p>
+<span class="pub-tags"><strong>{{ p.role }}</strong>{% if p.tags and p.tags != "" %} &middot; <span class="pub-rank">{{ p.tags }}</span>{% endif %}</span></p>
 <p><button class="abs-btn">Abstract</button> <a class="link-btn" href="{{ p.link }}" target="_blank">Paper</a></p>
 <div class="abstract hidden">{{ p.abstract }}</div>
 </div>

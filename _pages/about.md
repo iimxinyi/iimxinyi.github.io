@@ -35,38 +35,34 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 2 Education and Experience
 <div class="edu-card">
-<div class="edu-badge" style="background-color: #c0392b;">NWPU</div>
+<div class="edu-logo"><img src="/images/nwpu.svg" alt="NWPU"></div>
 <div class="edu-content">
 <div class="edu-head"><span><span class="edu-inst">Northwestern Polytechnical University (NWPU)</span><span class="edu-loc">, Xi'an, China</span></span><span class="edu-date">Aug. 2019 – Jul. 2023</span></div>
-<div class="edu-sub">B.Eng. in Communication Engineering &nbsp;·&nbsp; Outstanding Graduate &nbsp;·&nbsp; GPA 3.8/4.1</div>
-<div class="edu-focus">Thesis (Outstanding Graduation Thesis): Task Offloading Strategy in Internet of Vehicles Based on Multi-Agent Reinforcement Learning</div>
+<div class="edu-sub">B.Eng. in Communication Engineering &nbsp;·&nbsp; Outstanding Graduate</div>
 </div>
 </div>
 
 <div class="edu-card">
-<div class="edu-badge" style="background-color: #2980b9;">HITsz</div>
+<div class="edu-logo"><img src="/images/hit.png" alt="HITsz"></div>
 <div class="edu-content">
 <div class="edu-head"><span><span class="edu-inst">Harbin Institute of Technology, Shenzhen (HITsz)</span><span class="edu-loc">, Shenzhen, China</span></span><span class="edu-date">Aug. 2023 – Now</span></div>
-<div class="edu-sub">Ph.D. in Information and Communication Engineering (Expected) &nbsp;·&nbsp; GPA 3.4/4.0</div>
-<div class="edu-focus">Thesis (Expected): Research on Large Vision Model Inferencing and Task Offloading Based on Mobile Edge Computing</div>
+<div class="edu-sub">Ph.D. in Information and Communication Engineering (Expected)</div>
 </div>
 </div>
 
 <div class="edu-card">
-<div class="edu-badge" style="background-color: #16a085;">QUB</div>
+<div class="edu-logo"><img src="/images/qub.jpg" alt="QUB"></div>
 <div class="edu-content">
 <div class="edu-head"><span><span class="edu-inst">Queen's University Belfast (QUB)</span><span class="edu-loc">, Belfast, UK</span></span><span class="edu-date">Sep. 2026 – Now</span></div>
 <div class="edu-sub">Remote Visiting Ph.D. Student (Joint Training)</div>
-<div class="edu-focus">Research Focus: Privacy-Preserving Inference for Multimodal Large Language Models at the Edge</div>
 </div>
 </div>
 
 <div class="edu-card">
-<div class="edu-badge" style="background-color: #8e44ad;">ZTE</div>
+<div class="edu-logo"><img src="/images/zte.png" alt="ZTE"></div>
 <div class="edu-content">
 <div class="edu-head"><span><span class="edu-inst">ZTE Corporation</span><span class="edu-loc">, Shenzhen, China</span></span><span class="edu-date">Jan. 2026 – Jul. 2026</span></div>
 <div class="edu-sub">AI Algorithm Engineer (Research Intern) &nbsp;·&nbsp; Data Systems Department</div>
-<div class="edu-focus">Research Focus: Collaborative Inference and Industrial Applications of Vision Language Models</div>
 </div>
 </div>
 
@@ -152,25 +148,22 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   }
 
   /* ---- education / experience cards ---- */
-  .edu-card { display: flex; align-items: flex-start; padding: 0.55em 0; }
-  .edu-badge {
+  .edu-card { display: flex; align-items: center; padding: 0.6em 0; }
+  .edu-logo {
     flex: 0 0 auto;
-    width: 78px;
-    margin-right: 22px;
-    padding: 6px 4px;
-    color: #fff;
-    font-size: 12px;
-    font-weight: bold;
-    text-align: center;
-    border-radius: 4px;
+    width: 66px;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
+  .edu-logo img { max-width: 100%; max-height: 52px; }
   .edu-content { flex: 1; }
   .edu-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
   .edu-inst { font-weight: bold; }
   .edu-loc { color: #7f8c8d; font-weight: normal; font-size: 0.9em; }
   .edu-date { color: #7f8c8d; font-size: 0.85em; white-space: nowrap; }
   .edu-sub { margin-top: 2px; }
-  .edu-focus { font-size: 0.9em; color: #555; margin-top: 2px; }
 </style>
 
 Summary: Among the journal papers, 1/3 are in CCF A journals, 2/3 in SCI Q1, and 3/3 in JCR Q1; among the conference papers, 1/4 are in CCF A proceedings and 2/4 in CCF B/C.

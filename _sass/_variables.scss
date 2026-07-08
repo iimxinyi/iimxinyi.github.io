@@ -27,13 +27,14 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 /* serif typefaces */
 $georgia                    : Georgia, serif;
 $times                      : Times, serif;
+$times-new-roman            : "Times New Roman", Times, Georgia, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $times-new-roman;
+$header-font-family         : $times-new-roman;
+$caption-font-family        : $times-new-roman;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px

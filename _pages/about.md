@@ -62,7 +62,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 <div class="edu-logo"><img src="/images/zte.png" alt="ZTE"></div>
 <div class="edu-content">
 <div class="edu-head"><span><span class="edu-inst">ZTE Corporation</span><span class="edu-loc">, Shenzhen, China</span></span><span class="edu-date">Jan. 2026 – Jul. 2026</span></div>
-<div class="edu-sub">AI Algorithm Engineer (Research Intern) &nbsp;·&nbsp; Data Systems Department</div>
+<div class="edu-sub">AI Algorithm Engineer (Research Intern)</div>
 </div>
 </div>
 

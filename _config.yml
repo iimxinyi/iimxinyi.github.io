@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xinyi Zhuang (庄新一)"
 description              : "Ph.D. candidate at Harbin Institute of Technology, Shenzhen"
-repository               : "iimxinyi.github.io"
+repository               : "iimxinyi/iimxinyi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

@@ -24,6 +24,8 @@ Now, I am pursuing my Ph.D. degree in Information and Communication Engineering 
 
 My research interests include Networks for Large AI Models and AI for Networking.
 
+My Google Scholar citations: <a href='https://scholar.google.com/citations?user=IkhGGKUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>.
 
 # 1 News

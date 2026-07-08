@@ -1,0 +1,21 @@
+{%- assign pubs = site.data.publications -%}
+{%- assign years = pubs | map: "year" | uniq | sort | reverse -%}
+{%- for year in years -%}
+{%- assign year_pubs = pubs | where: "year", year -%}
+{%- assign sel = year_pubs | where_exp: "p", "p.selected == true" -%}
+{%- assign nonsel = year_pubs | where_exp: "p", "p.selected != true" -%}
+{%- if sel.size > 0 -%}
+<div class="year-divider">{{ year }}</div>
+{% for p in sel %}{% include pub_card.html p=p %}{% endfor -%}
+{%- if nonsel.size > 0 -%}
+<div class="extra-pub">
+{% for p in nonsel %}{% include pub_card.html p=p %}{% endfor -%}
+</div>
+{%- endif -%}
+{%- else -%}
+<div class="extra-pub">
+<div class="year-divider">{{ year }}</div>
+{% for p in year_pubs %}{% include pub_card.html p=p %}{% endfor -%}
+</div>
+{%- endif -%}
+{%- endfor -%}

@@ -47,19 +47,20 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   .extra-pub.show { display: block; }
   .pub-toggle-btn {
     display: inline-block;
-    margin: 0.2em 0 1em 0;
-    padding: 5px 16px;
-    font-size: 13px;
-    font-weight: bold;
-    color: #fff;
-    background-color: #2980b9;
-    border: none;
-    border-radius: 4px;
+    margin: 0.5em 0 0.4em 0;
+    padding: 3px 15px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #7f8c8d;
+    background: transparent;
+    border: 1px solid #d5d5d5;
+    border-radius: 14px;
     cursor: pointer;
+    transition: all 0.15s ease;
   }
-  .pub-toggle-btn:hover { background-color: #1f6391; }
+  .pub-toggle-btn:hover { background: #f4f4f4; color: #2c3e50; border-color: #bbb; }
 
-  /* ---- Wenchao-Xu-style publication cards ---- */
+  /* ---- publication cards ---- */
   .paper-card {
     display: flex;
     align-items: flex-start;
@@ -68,18 +69,19 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   .paper-badge {
     flex: 0 0 auto;
     width: 76px;
-    margin-right: 14px;
+    margin-right: 22px;
     padding: 3px 5px;
     color: #fff;
     font-size: 11px;
-    font-weight: bold;
+    font-weight: normal;
+    letter-spacing: 0.02em;
     text-align: center;
     border-radius: 4px;
   }
   .paper-content { flex: 1; }
   .paper-content p { margin: 0 0 0.4em 0; text-align: left; line-height: 1.4; }
   .pub-title { font-weight: bold; }
-  .pub-venue { font-style: italic; }
+  .pub-venue { font-style: normal; }
   .pub-tags { font-size: 0.9em; color: #7f8c8d; }
   .abs-btn, .link-btn {
     display: inline-block;
@@ -119,138 +121,9 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 <button id="pubToggleBtn" class="pub-toggle-btn" onclick="toggleAllPubs()">Show All Publications &#9660;</button>
 
-Summary (Journals): 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers are published in SCI Q1 journals, and 3 out of 3 papers are published in JCR Q1 journals.<br>
-Summary (Conferences): 1 out of 4 papers are published in CCF A conference proceedings, and 2 out of 4 papers are published in CCF B/C conference proceedings.
+Summary: Among the journal papers, 1/3 are in CCF A journals, 2/3 in SCI Q1, and 3/3 in JCR Q1; among the conference papers, 1/4 are in CCF A proceedings and 2/4 in CCF B/C.
 
-<div class="year-divider">2026</div>
-
-<div class="paper-card">
-<div class="paper-badge" style="background-color: #f39c12;">COMMAG</div>
-<div class="paper-content" markdown="1">
-
-<span class="pub-title">When AIGC meets MEC: A novel diffusion-based collaborative inference paradigm</span><br>
-H. Wu<sup>&dagger;</sup>, **Xinyi Zhuang**<sup>&dagger;</sup>, J. Wu, L. Gao, D. Niyato, and T.-T. Chan<br>
-<span class="pub-venue">IEEE Communications Magazine (IEEE Commun. Mag.), Early Access</span><br>
-<span class="pub-tags">**Co-First Author** · SCI Q2 · JCR Q1</span>
-
-<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/11503883" target="_blank">Paper</a>
-
-<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
-
-</div>
-</div>
-
-<div class="extra-pub">
-
-<div class="paper-card">
-<div class="paper-badge" style="background-color: #c5ca30;">IoTJ</div>
-<div class="paper-content" markdown="1">
-
-<span class="pub-title">Joint communication and computation scheduling for MEC-enabled AIGC services: A game-theoretic stochastic learning approach</span><br>
-H. Liu, **Xinyi Zhuang**, J. Wu, Y. Luo, B. Cao, and L. Gao<br>
-<span class="pub-venue">IEEE Internet of Things Journal (IEEE Internet Things J.), Early Access</span><br>
-<span class="pub-tags">**Collaborative Author** · CCF C · SCI Q1 · JCR Q1</span>
-
-<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://arxiv.org/abs/2605.22277" target="_blank">Paper</a>
-
-<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
-
-</div>
-</div>
-
-</div>
-
-<div class="year-divider">2025</div>
-
-<div class="paper-card">
-<div class="paper-badge" style="background-color: #27ae60;">GLOBECOM</div>
-<div class="paper-content" markdown="1">
-
-<span class="pub-title">Joint optimization of offloading, scheduling, and inferencing for MEC-empowered AIGC services</span><br>
-X. Guo, C. Zhang, X. Chen, D. Zhao, **Xinyi Zhuang**\*, J. Wu\*, H. Liu, and L. Gao\*<br>
-<span class="pub-venue">Proc. IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, Dec. 2025, pp. 823-828</span><br>
-<span class="pub-tags">**Corresponding Author** · CCF C</span>
-
-<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/11431795" target="_blank">Paper</a>
-
-<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
-
-</div>
-</div>
-
-<div class="paper-card">
-<div class="paper-badge" style="background-color: #27ae60;">ICC</div>
-<div class="paper-content" markdown="1">
-
-<span class="pub-title">QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks</span><br>
-**Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao<br>
-<span class="pub-venue">Proc. IEEE International Conference on Communications (ICC), Montreal, QC, Canada, Jun. 2025, pp. 1151-1156</span><br>
-<span class="pub-tags">**First Author** · CCF C</span>
-
-<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/11161497" target="_blank">Paper</a>
-
-<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
-
-</div>
-</div>
-
-<div class="paper-card">
-<div class="paper-badge" style="background-color: #e74c3c;">INFOCOM</div>
-<div class="paper-content" markdown="1">
-
-<span class="pub-title">Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services</span><br>
-**Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao<br>
-<span class="pub-venue">Proc. IEEE International Conference on Computer Communications (INFOCOM), London, United Kingdom, May 2025</span><br>
-<span class="pub-tags">**First Author** · CCF A</span>
-
-<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/11044689" target="_blank">Paper</a>
-
-<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
-
-</div>
-</div>
-
-<div class="extra-pub">
-
-<div class="paper-card">
-<div class="paper-badge" style="background-color: #e74c3c;">TMC</div>
-<div class="paper-content" markdown="1">
-
-<span class="pub-title">QoE-aware offloading and resource allocation for MEC-empowered AIGC services</span><br>
-J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao<br>
-<span class="pub-venue">IEEE Transactions on Mobile Computing (IEEE Trans. Mobile Comput.), vol. 24, no. 10, pp. 9664-9682, Oct. 2025</span><br>
-<span class="pub-tags">**Collaborative Author** · CCF A · SCI Q1 · JCR Q1</span>
-
-<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/10972066" target="_blank">Paper</a>
-
-<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
-
-</div>
-</div>
-
-</div>
-
-<div class="extra-pub">
-
-<div class="year-divider">2024</div>
-
-<div class="paper-card">
-<div class="paper-badge" style="background-color: #3498db;">WiOpt</div>
-<div class="paper-content" markdown="1">
-
-<span class="pub-title">Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model</span><br>
-H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao<br>
-<span class="pub-venue">Proc. International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), Seoul, Republic of Korea, Oct. 2024, pp. 345-352</span><br>
-<span class="pub-tags">**Collaborative Author**</span>
-
-<button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/10778362" target="_blank">Paper</a>
-
-<div class="abstract hidden">Abstract: 请在此填写本文摘要 / Fill in the abstract of this paper here.</div>
-
-</div>
-</div>
-
-</div>
+{% include publications.html %}
 
 <script>
 function toggleAllPubs() {

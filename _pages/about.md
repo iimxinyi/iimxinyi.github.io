@@ -69,18 +69,21 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   }
   .paper-badge {
     flex: 0 0 auto;
-    width: 96px;
+    width: 104px;
     margin-right: 16px;
-    padding: 8px 4px;
+    padding: 5px 4px;
     color: #fff;
     font-size: 12px;
     font-weight: bold;
-    line-height: 1.3;
     text-align: center;
     border-radius: 4px;
   }
-  .paper-content { flex: 1; text-align: justify; }
-  .paper-content p { margin: 0 0 0.45em 0; }
+  .paper-content { flex: 1; }
+  .paper-content p { margin: 0 0 0.5em 0; text-align: left; line-height: 1.5; }
+  .pub-title { font-weight: bold; }
+  .pub-venue { font-style: italic; }
+  .pub-tags { font-size: 0.9em; color: #7f8c8d; }
+  .pub-tags strong { color: #c0392b; }
   .abs-btn, .link-btn {
     display: inline-block;
     padding: 2px 12px;
@@ -116,10 +119,13 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 Summary: 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers are published in SCI Q1 journals, and 3 out of 3 papers are published in JCR Q1 journals.
 
 <div class="paper-card">
-<div class="paper-badge" style="background-color: #f39c12;">COMMAG<br>2026</div>
+<div class="paper-badge" style="background-color: #f39c12;">COMMAG</div>
 <div class="paper-content" markdown="1">
 
-[When AIGC meets MEC: A novel diffusion-based collaborative inference paradigm](https://ieeexplore.ieee.org/document/11503883), H. Wu<sup>&dagger;</sup>, **Xinyi Zhuang**<sup>&dagger;</sup>, J. Wu, L. Gao, D. Niyato, and T.-T. Chan, *IEEE Commun. Mag.*, Early Access. (<sup>&dagger;</sup>Co-First Author) (SCI Q2, **JCR Q1**)
+<span class="pub-title">When AIGC meets MEC: A novel diffusion-based collaborative inference paradigm</span><br>
+H. Wu<sup>&dagger;</sup>, **Xinyi Zhuang**<sup>&dagger;</sup>, J. Wu, L. Gao, D. Niyato, and T.-T. Chan<br>
+<span class="pub-venue">IEEE Communications Magazine (IEEE Commun. Mag.), Early Access</span><br>
+<span class="pub-tags">**Co-First Author** · SCI Q2 · JCR Q1</span>
 
 <button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/11503883" target="_blank">Paper</a>
 
@@ -131,10 +137,13 @@ Summary: 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers ar
 <div class="extra-pub">
 
 <div class="paper-card">
-<div class="paper-badge" style="background-color: #c5ca30;">IoTJ<br>2026</div>
+<div class="paper-badge" style="background-color: #c5ca30;">IoTJ</div>
 <div class="paper-content" markdown="1">
 
-[Joint communication and computation scheduling for MEC-enabled AIGC services: A game-theoretic stochastic learning approach](https://arxiv.org/abs/2605.22277), H. Liu, **Xinyi Zhuang**, J. Wu, Y. Luo, B. Cao, and L. Gao, *IEEE Internet Things J.*, Early Access. (CCF C, **SCI Q1**, **JCR Q1**)
+<span class="pub-title">Joint communication and computation scheduling for MEC-enabled AIGC services: A game-theoretic stochastic learning approach</span><br>
+H. Liu, **Xinyi Zhuang**, J. Wu, Y. Luo, B. Cao, and L. Gao<br>
+<span class="pub-venue">IEEE Internet of Things Journal (IEEE Internet Things J.), Early Access</span><br>
+<span class="pub-tags">**Collaborative Author** · CCF C · SCI Q1 · JCR Q1</span>
 
 <button class="abs-btn">Abstract</button> <a class="link-btn" href="https://arxiv.org/abs/2605.22277" target="_blank">Paper</a>
 
@@ -144,10 +153,13 @@ Summary: 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers ar
 </div>
 
 <div class="paper-card">
-<div class="paper-badge" style="background-color: #e74c3c;">TMC<br>2025</div>
+<div class="paper-badge" style="background-color: #e74c3c;">TMC</div>
 <div class="paper-content" markdown="1">
 
-[QoE-aware offloading and resource allocation for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/10972066), J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao, *IEEE Trans. Mobile Comput.*, vol. 24, no. 10, pp. 9664-9682, Oct. 2025. (**CCF A**, **SCI Q1**, **JCR Q1**)
+<span class="pub-title">QoE-aware offloading and resource allocation for MEC-empowered AIGC services</span><br>
+J. Wu, **Xinyi Zhuang**, M. Tang, and L. Gao<br>
+<span class="pub-venue">IEEE Transactions on Mobile Computing (IEEE Trans. Mobile Comput.), vol. 24, no. 10, pp. 9664-9682, Oct. 2025</span><br>
+<span class="pub-tags">**Collaborative Author** · CCF A · SCI Q1 · JCR Q1</span>
 
 <button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/10972066" target="_blank">Paper</a>
 
@@ -162,10 +174,13 @@ Summary: 1 out of 3 papers are published in CCF A journals, 2 out of 3 papers ar
 Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 out of 4 papers are published in CCF B/C conference proceedings.
 
 <div class="paper-card">
-<div class="paper-badge" style="background-color: #27ae60;">GLOBECOM<br>2025</div>
+<div class="paper-badge" style="background-color: #27ae60;">GLOBECOM</div>
 <div class="paper-content" markdown="1">
 
-[Joint optimization of offloading, scheduling, and inferencing for MEC-empowered AIGC services](https://ieeexplore.ieee.org/document/11431795), X. Guo, C. Zhang, X. Chen, D. Zhao, **Xinyi Zhuang**\*, J. Wu\*, H. Liu, and L. Gao\*, in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, Taipei, Taiwan, Dec. 2025, pp. 823-828. (\*Corresponding Author) (CCF C)
+<span class="pub-title">Joint optimization of offloading, scheduling, and inferencing for MEC-empowered AIGC services</span><br>
+X. Guo, C. Zhang, X. Chen, D. Zhao, **Xinyi Zhuang**\*, J. Wu\*, H. Liu, and L. Gao\*<br>
+<span class="pub-venue">Proc. IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, Dec. 2025, pp. 823-828</span><br>
+<span class="pub-tags">**Corresponding Author** · CCF C</span>
 
 <button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/11431795" target="_blank">Paper</a>
 
@@ -175,10 +190,13 @@ Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 
 </div>
 
 <div class="paper-card">
-<div class="paper-badge" style="background-color: #27ae60;">ICC<br>2025</div>
+<div class="paper-badge" style="background-color: #27ae60;">ICC</div>
 <div class="paper-content" markdown="1">
 
-[QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks](https://ieeexplore.ieee.org/document/11161497), **Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao, in *Proc. IEEE Int. Conf. Commun. (ICC)*, Montreal, QC, Canada, Jun. 2025, pp. 1151-1156. (CCF C)
+<span class="pub-title">QoS-driven hybrid inference scheme for generative diffusion models in MEC-enabled AI-generated content networks</span><br>
+**Xinyi Zhuang**, J. Wu, H. Wu, M. Tang, and L. Gao<br>
+<span class="pub-venue">Proc. IEEE International Conference on Communications (ICC), Montreal, QC, Canada, Jun. 2025, pp. 1151-1156</span><br>
+<span class="pub-tags">**First Author** · CCF C</span>
 
 <button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/11161497" target="_blank">Paper</a>
 
@@ -188,10 +206,13 @@ Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 
 </div>
 
 <div class="paper-card">
-<div class="paper-badge" style="background-color: #e74c3c;">INFOCOM<br>2025</div>
+<div class="paper-badge" style="background-color: #e74c3c;">INFOCOM</div>
 <div class="paper-content" markdown="1">
 
-[Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services](https://ieeexplore.ieee.org/document/11044689), **Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao, in *Proc. IEEE Int. Conf. Comput. Commun. (INFOCOM)*, London, United Kingdom, May 2025. (**CCF A**)
+<span class="pub-title">Joint optimization of model inferencing and task offloading for MEC-empowered large vision model services</span><br>
+**Xinyi Zhuang**, J. Wu, H. Wu, T. Zhang, and L. Gao<br>
+<span class="pub-venue">Proc. IEEE International Conference on Computer Communications (INFOCOM), London, United Kingdom, May 2025</span><br>
+<span class="pub-tags">**First Author** · CCF A</span>
 
 <button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/11044689" target="_blank">Paper</a>
 
@@ -203,10 +224,13 @@ Summary: 1 out of 4 papers are published in CCF A conference proceedings, and 2 
 <div class="extra-pub">
 
 <div class="paper-card">
-<div class="paper-badge" style="background-color: #3498db;">WiOpt<br>2024</div>
+<div class="paper-badge" style="background-color: #3498db;">WiOpt</div>
 <div class="paper-content" markdown="1">
 
-[Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model](https://ieeexplore.ieee.org/document/10778362), H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao, in *Proc. Int. Symp. Model. Optim. Mobile, Ad Hoc, Wireless Netw. (WiOpt)*, Seoul, Republic of Korea, Oct. 2024, pp. 345-352.
+<span class="pub-title">Joint communication and computation scheduling for MEC-enabled AIGC services based on generative diffusion model</span><br>
+H. Liu, J. Wu, **Xinyi Zhuang**, H. Wu, and L. Gao<br>
+<span class="pub-venue">Proc. International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), Seoul, Republic of Korea, Oct. 2024, pp. 345-352</span><br>
+<span class="pub-tags">**Collaborative Author**</span>
 
 <button class="abs-btn">Abstract</button> <a class="link-btn" href="https://ieeexplore.ieee.org/document/10778362" target="_blank">Paper</a>
 

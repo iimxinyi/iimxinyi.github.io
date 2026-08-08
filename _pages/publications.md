@@ -27,7 +27,7 @@ publications:
 
   - title: "Joint communication and computation scheduling for MEC-enabled AIGC services: A game-theoretic stochastic learning approach"
     authors: "H. Liu, <strong>Xinyi Zhuang</strong>, J. Wu, Y. Luo, B. Cao, and L. Gao"
-    venue: "IEEE Internet of Things Journal, Early Access"
+    venue: "IEEE Internet of Things Journal, vol. 13, no. 16, pp. 35949-35965, Aug. 2026"
     year: 2026
     badge: "IoTJ"
     color: "#c5ca30"

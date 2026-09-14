@@ -31,6 +31,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 - *2026.07:* One collaborative paper has been submitted to IEEE Transactions on Mobile Computing.
 - *2026.08:* Two (co)-first-author papers have been submitted to IEEE INFOCOM.
 - *2026.08:* One collaborative paper has been submitted to IEEE Transactions on Image Processing.
+- *2026.09:* One collaborative paper has been submitted to ICLR.
 
 
 # 2 Education and Experience

@@ -18,19 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Xinyi Zhuang (庄新一)
-Hi, I'm a third-year direct-track Ph.D. candidate at the School of Information Science and Technology, Harbin Institute of Technology, Shenzhen.
+Hi, I'm a fourth-year direct-track Ph.D. candidate at the School of Information Science and Technology, Harbin Institute of Technology, Shenzhen.
 I received my B.Eng. degree in Communication Engineering from Northwestern Polytechnical University (NWPU) in 2023.
 Now, I am pursuing my Ph.D. degree in Information and Communication Engineering at Harbin Institute of Technology, Shenzhen (HITsz), under the supervision of Prof. [Lin Gao](https://scholar.google.com/citations?user=41wcJi4AAAAJ&hl=en).
 
 My research interests include Networks for Large AI Models and AI for Networking.
 
-My Google Scholar citations: <a href='https://scholar.google.com/citations?user=IkhGGKUAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>.
 
 # 1 News
-- *2025.09:* One first-author paper has been submitted to IEEE Transactions on Mobile Computing (Major Revision).
-- *2026.06:* One collaborative paper has been submitted to IEEE Transactions on Mobile Computing.
+- *2025.09:* One first-author paper has been submitted to IEEE Transactions on Mobile Computing (Minor Revision).
 - *2026.07:* One collaborative paper has been submitted to IEEE Transactions on Mobile Computing.
 - *2026.08:* Two (co)-first-author papers have been submitted to IEEE INFOCOM.
 - *2026.08:* One collaborative paper has been submitted to IEEE Transactions on Image Processing.
@@ -213,4 +210,5 @@ document.addEventListener('click', function (e) {
 
 # 6 Services
 - Technical Reviewer for Conferences: IEEE Conference on Vehicular Technology (VTC)
+- Technical Reviewer for Journals and Magazines: IEEE Network Magazine
 

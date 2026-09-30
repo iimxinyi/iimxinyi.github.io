@@ -27,6 +27,17 @@ My research interests include Networks for Large AI Models and AI for Networking
 Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.hit.edu.cn</u>.
 
 # 1 News
+
+<aside class="internship-card" aria-labelledby="internship-title">
+  <div class="internship-status"><span aria-hidden="true"></span> OPEN TO INTERNSHIP OPPORTUNITIES</div>
+  <h2 id="internship-title">Seeking a Tech / TMT Industry Research Internship</h2>
+  <p>I am seeking industry research internship opportunities focused on <strong>AI, large language models, and computing infrastructure</strong>. Drawing on my research in AI and networking, I am keen to analyze technology trends, industry value chains, and commercialization opportunities, and contribute to company analysis and research reports.</p>
+  <div class="internship-footer">
+    <div class="internship-tags" aria-label="Areas of interest"><span>AI &amp; LLMs</span><span>Computing Infrastructure</span><span>Tech Commercialization</span></div>
+    <a class="internship-contact" href="mailto:{{ site.author.email }}">Get in touch <span aria-hidden="true">&#8599;</span></a>
+  </div>
+</aside>
+
 - *2025.09:* One first-author paper has been submitted to IEEE Transactions on Mobile Computing (Minor Revision).
 - *2026.07:* One collaborative paper has been submitted to IEEE Transactions on Mobile Computing (Major Revision).
 - *2026.08:* Two (co)-first-author papers have been submitted to IEEE INFOCOM.

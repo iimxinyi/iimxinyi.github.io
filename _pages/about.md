@@ -222,5 +222,5 @@ document.addEventListener('click', function (e) {
 
 # 6 Services
 - Technical Reviewer for Conferences: IEEE Conference on Vehicular Technology (VTC)
-- Technical Reviewer for Journals and Magazines: IEEE Network Magazine
+- Technical Reviewer for Journals and Magazines: IEEE Transactions on Mobile Computing、IEEE Network Magazine
 

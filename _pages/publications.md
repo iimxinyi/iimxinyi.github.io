@@ -15,7 +15,7 @@ permalink: /publications-data/
 publications:
   - title: "Representation dynamics reveal semantic saliency and similarity for visual token pruning in MLLMs"
     authors: "W. Li, Z. Zhou, <strong>Xinyi Zhuang</strong>, X. Guo, R. Tian, C. Zhang, and L. Gao"
-    venue: "arXiv:2609.36916"
+    venue: "arXiv preprint, arXiv:2609.36916"
     year: 2026
     badge: "arXiv"
     color: "#7f8c8d"

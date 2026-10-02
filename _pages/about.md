@@ -28,6 +28,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
 
 # 1 News
 
+<!--
 <aside class="internship-card" aria-labelledby="internship-title">
   <div class="internship-status"><span aria-hidden="true"></span> OPEN TO INTERNSHIP OPPORTUNITIES</div>
   <h2 id="internship-title">Seeking a Tech / TMT Industry Research Internship</h2>
@@ -37,6 +38,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
     <a class="internship-contact" href="mailto:{{ site.author.email }}">Get in touch <span aria-hidden="true">&#8599;</span></a>
   </div>
 </aside>
+-->
 
 - *2025.09:* One first-author paper has been submitted to IEEE Transactions on Mobile Computing (Minor Revision).
 - *2026.07:* One collaborative paper has been submitted to IEEE Transactions on Mobile Computing (Major Revision).

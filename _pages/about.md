@@ -178,7 +178,7 @@ Feel free to contact me for communication and collaboration: <u>zhuangxinyi@stu.
   .edu-sub { margin-top: 2px; }
 </style>
 
-Summary: Among the journal papers, 1/3 are in CCF A journals, 2/3 in SCI Q1, and 3/3 in JCR Q1; among the conference papers, 1/4 are in CCF A proceedings and 2/4 in CCF B/C.
+Summary: Among the journal papers, 1/3 are in CCF A journals, 2/3 in SCI Q1, and 3/3 in JCR Q1; among the conference papers, 1/5 are in CCF A proceedings and 2/5 in CCF B/C.
 
 <button id="pubToggleBtn" class="pub-toggle-btn" onclick="toggleAllPubs()">Click Here to Show Full Publications &#9660;</button>
 

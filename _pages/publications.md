@@ -14,7 +14,7 @@ sitemap: false
 permalink: /publications-data/
 publications:
   - title: "A novel hybrid inference scheme for diffusion-based AIGC services in MEC networks"
-    authors: "<strong>Xinyi Zhuang</strong>, J. Wu, Y. Luo, M. Tang, H. Liu, H. Wu, L. Gao*, and Q. Zhang"
+    authors: "<strong>Xinyi Zhuang</strong>, J. Wu, Y. Luo, M. Tang, H. Liu, H. Wu, L. Gao, and Q. Zhang"
     venue: "IEEE Transactions on Mobile Computing, Accepted"
     year: 2027
     badge: "TMC"

@@ -13,6 +13,19 @@ layout: none
 sitemap: false
 permalink: /publications-data/
 publications:
+  - title: "A novel hybrid inference scheme for diffusion-based AIGC services in MEC networks"
+    authors: "<strong>Xinyi Zhuang</strong>, J. Wu, Y. Luo, M. Tang, H. Liu, H. Wu, L. Gao*, and Q. Zhang"
+    venue: "IEEE Transactions on Mobile Computing, Accepted"
+    year: 2027
+    badge: "TMC"
+    color: "#e74c3c"
+    # Fill in the IEEE Xplore link once the paper is online (the Paper button is hidden while empty).
+    link: ""
+    role: "First Author"
+    tags: "CCF A · SCI Q1 · JCR Q1"
+    selected: true
+    abstract: 'AI-Generated Content (AIGC) powered by Generative Diffusion Models (GDMs) is transforming content creation and driving significant advancements across various fields. With the advancement of Mobile Edge Computing (MEC) and model compression techniques, GDMs are increasingly being deployed on Edge Servers (ESs) and User Equipment (UEs), offering more adaptive and flexible AIGC services. In the MEC scenario, however, designing an efficient inference scheme remains a significant challenge, due to the diverse intentions of users, as well as the resource limitations of ESs and UEs. In this work, we propose a novel Hybrid Inference Scheme (HIS) for MEC-enabled AIGC services, consisting of two phases: (i) a common inference phase that generates shared intermediate results for users with similar intentions using public prompts derived from their provided personal prompts, and (ii) a personalized inference phase that generates final results (contents) for each individual user based on their personal prompts. To quantitatively measure the service quality of the HIS, we derive a novel Hybrid Inference Quality Metric (HIQM) through real-world data, which measures the semantic alignment of generated content across varying semantic similarities and common inference steps. Building upon this metric, we formulate a joint optimization problem that integrates user clustering, model inferencing, and resource allocation, aiming to optimize service quality, delay, and energy consumption jointly. We further propose a semantic-based user clustering approach, and an integrated deep reinforcement learning and optimization approach for model inferencing and resource allocation. Simulation results demonstrate that our approach significantly outperforms existing benchmarks, achieving performance improvements ranging from 36.8% to 94.3%.'
+
   - title: "Representation dynamics reveal semantic saliency and similarity for visual token pruning in MLLMs"
     authors: "W. Li, Z. Zhou, <strong>Xinyi Zhuang</strong>, X. Guo, R. Tian, C. Zhang, and L. Gao"
     venue: "arXiv preprint, arXiv:2609.36916"
